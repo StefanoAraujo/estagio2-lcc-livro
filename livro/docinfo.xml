@@ -3,11 +3,11 @@
 <revhistory>
 
   <revision>
-    <revnumber>v0.1.0</revnumber>
-    <date>23/02/2015</date>
+    <revnumber>v0.0.1</revnumber>
+    <date>24/02/2015</date>
     <authorinitials>Ayla</authorinitials>
     <revremark>
-      Produzindo a primeira seção do primeiro capítulo.
+<ulink url="{gitrepo}/issues/1">Elaboração do cap1: primeiro objetivo;</ulink>
     </revremark>
   </revision>
   
@@ -24,6 +24,6 @@
     <firstname>Eduardo</firstname>
     <surname>Medeiros</surname>
     <othername>Santana</othername>
-  <contrib>Editor</contrib>
+  <contrib>Designer Instrucional</contrib>
 </othercredit>
 

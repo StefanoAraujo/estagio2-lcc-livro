@@ -97,11 +97,9 @@ Considerando sua experiência na disciplina de Estágio 1, onde você
 pôde observar e analisar a realidade de alguma escola, reflita e
 realize a atividade que é proposta a seguir:
 
-==== Atividade: Reconhecendo as habilidades que serão desenvolvidas no Estágio 2
+==== Atividade: Reconhecendo as competências que serão desenvolvidas no Estágio 2
 
-//Retirei essa imagem abaixo pois acho que ela pode confundir, ou no mínimo exigiria mais explicação que poderia fugir do fluxo de raciocício apresentado até então
-
-//image::{img}/competencias-estagio2.svg[]
+image::{img}/competencias-estagio2.svg[]
 
 Você está iniciando a disciplina Estágio 2 cuja proposta envolve a atuação do estagiário de forma mais ativa na escola.
 Será que você consegue reconhecer quais as competências que esta
@@ -115,7 +113,7 @@ registre *Não* caso contrário.
 [cols="8,2^", options="header",valign="middle"]
 |====
 ^| Competência |  Pertence à proposta do Estágio 2 
-| Entender os aspectos econômicos e financeiros das organizações e propor soluções de hardware e software para otimizar seus processos; | 
+| Entender os aspectos econômicos e financeiros das organizações e propor soluções de hardware e software para otimizar seus processos; | _Não_
 | Empregar metodologias que visem garantir critérios de qualidade ao longo de todas as etapas de desenvolvimento de uma solução computacional; | 
 | Desenvolver sistemas integrados e sistemas embarcados, incluindo o desenvolvimento de software para esses sistemas; |
 | Especificar e avaliar softwares e equipamentos para aplicações educacionais e de Educação à Distancia; | 
@@ -162,12 +160,3 @@ As competências para o desenvolvimento de software, principalmente software com
 O Estágio 2 deverá ser realizado, obrigatoriamente, em uma escola. Esta escola não precisa ser a mesma do Estágio 1 (embora esta seja uma recomendação).
 
 ====
-
-////
-
-EDUARDO: Não precisa desse texto apresentado o que será visto, podemos
-já iniciar o próximo.
-
-Na seção a seguir veremos exemplos de algumas possíveis ações que você
-poderá desenvolver como estagiário na escola em que irá atuar.
-////
