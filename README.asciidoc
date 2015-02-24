@@ -1,3 +1,8 @@
+= Estágio 2 =
+
+Este livro está sendo produzido no https://docs.google.com/document/d/1cD8vSFxfHZ1QoZg6_1XCdVK9uKqPrCAMYBtEmO0rXhA[google docs].
+
+
 == Asciidoc Book template with rake tasks and github
 
 This is the book template used at Universidade Federal da Paraíba for a online course (Licenciatura em Computação a Distância).
