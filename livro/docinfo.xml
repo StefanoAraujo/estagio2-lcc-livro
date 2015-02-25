@@ -2,6 +2,16 @@
 
 <revhistory>
 
+<revision>
+  <revnumber>v0.0.2</revnumber>
+  <date>25/02/2015</date>
+  <authorinitials>Eduardo</authorinitials>
+  <revremark>
+<ulink url="{gitrepo}/issues/3">Scaffolding instrucional para realização das atividades;</ulink>
+  </revremark>
+</revision>
+
+
   <revision>
     <revnumber>v0.0.1</revnumber>
     <date>24/02/2015</date>
