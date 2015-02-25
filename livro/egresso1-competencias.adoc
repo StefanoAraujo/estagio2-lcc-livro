@@ -93,11 +93,88 @@ desenvolvimento de jogos simples, ensino de computação como ciência
 abordando conceitos básicos como algoritmos de ordenação e
 representação da informação, etc. 
 
+<<<
+
+==== Compreendendo a proposta instrucional do livro
+
+===== Realizando uma atividade no computador
+
+++++
+<simpara>
+<ulink url="{atividade}">
+<inlinemediaobject>
+<imageobject>
+<imagedata fileref="images/pagina-com-atividade.svg"/>
+</imageobject>
+</inlinemediaobject></ulink></simpara>
+++++
+
+Se você estiver acessando a versão digital deste livro, *clique*
+nos ícones acima. *Faça isso agora!*
+
+NOTE: Se você tiver acesso à internet, será iniciado o download
+de um arquivo contendo uma atividade. Você poderá utilizar este
+arquivo para registrar suas respostas da atividade.
+
+image::images/icones.svg[scaledwidth="50%"]
+
+[TIP]
+====
+
+*Você pode baixar todos os arquivos de atividades
+de uma única vez acessando*: {gitrepo}/archive/{edition}.zip
+
+Depois de baixar e descompactar o arquivo, você encontrar os arquivos
+de atividades na pasta `atividades`.
+
+====
+
+NOTE: Desta forma você sempre poderá realizar as atividades propostas,
+seja no computador ou no papel.
+
+
+===== Compreendendo os objetivos de aprendizagem
+
+No início de cada capítulo, são apresentados seus objetivos 
+de aprendizagem. Cada objetivo  dará origem a uma ou mais atividades.
+
+Vamos rever o nosso primeiro objetivo de aprendizagem:
+
+____
+
+Ao final deste capítulo você será capaz de:
+
+1. *Lembrar* do perfil de egresso do curso de Licenciatura em Ciência
+da Computação (LC) e das competências esperadas para este
+profissional, *reconhecendo* quais competências poderão ser
+desenvolvidas no ambiente escolar durante o estágio 2.
+
+____
+
+Você já leu o assunto sobre _o perfil do egresso e as competências
+esperadas para este profissional_. Agora é o momento de você verificar
+que está atingindo o objetivo proposto:  *_reconhecendo_* _quais competências 
+poderão ser desenvolvidas no ambiente escolar durante o estágio 2_.
+
 Considerando sua experiência na disciplina de Estágio 1, onde você
 pôde observar e analisar a realidade de alguma escola, reflita e
-realize a atividade que é proposta a seguir:
+realize a atividade que é proposta a seguir.
+
+TIP: Lembre-se que você poderá realizar esta atividade no papel ou no
+computador, clicando nos ícones da atividade, como você fez 
+anteriormente.
 
 ==== Atividade: Reconhecendo as competências que serão desenvolvidas no Estágio 2
+
+++++
+<simpara>
+<ulink url="{atividade}">
+<inlinemediaobject>
+<imageobject>
+<imagedata fileref="images/pagina-com-atividade.svg"/>
+</imageobject>
+</inlinemediaobject></ulink></simpara>
+++++
 
 image::{img}/competencias-estagio2.svg[]
 
@@ -126,6 +203,10 @@ registre *Não* caso contrário.
 | Propor, coordenar e avaliar, projetos de ensino-aprendizagem assistidos por computador que propiciem a pesquisa. |  
 |====
 
+TIP: Na próxima página você irá encontrará as respostas
+comentadas, mas nós recomendamos que você tente realizar as atividades
+antes de consultar as respostas.
+
 <<<
 
 *Resposta comentada*:
@@ -146,17 +227,60 @@ registre *Não* caso contrário.
 | Propor, coordenar e avaliar, projetos de ensino-aprendizagem assistidos por computador que propiciem a pesquisa. | Sim | Na disciplina de Estágio 1 o aluno é convocado para observar a escola. No Estágio 2 ele deverá realizar uma intervenção. Portanto, a atividade de propor, coordenar e avaliar um projeto faz parte da proposta do Estágio 2. 
 |====
 
+[IMPORTANT]
+====
+Embora o licenciado em computação seja capacitado para codificar
+softwares, durante o Estágio 2 ele estará desenvolvendo as suas
+competências relacionadas ao ensino na escola.
+
+As competências para o desenvolvimento de software, principalmente 
+software comercial, não fazem parte da proposta do Estágio 2.
+
+O Estágio 2 deverá ser realizado, obrigatoriamente, em uma escola. 
+Esta escola não precisa ser a mesma do Estágio 1 (embora esta seja 
+uma recomendação).
+
+====
 
 [TIP]
 .Feedback
 ====
 
-Embora o licenciado em computação seja capacitado para codificar
-softwares, durante o Estágio 2 ele estará desenvolvendo as suas
-competências relacionadas ao ensino na escola.
+E então? Você realizou a atividade ou foi direto para a resposta? 
 
-As competências para o desenvolvimento de software, principalmente software comercial, não fazem parte da proposta do Estágio 2.
+Não há mal em avançar direto para as respostas comentadas, na 
+realidade elas estão logo na próxima página pois caso você tenha pouco
+tempo para os estudos poderá ter acesso rápido às elas.
 
-O Estágio 2 deverá ser realizado, obrigatoriamente, em uma escola. Esta escola não precisa ser a mesma do Estágio 1 (embora esta seja uma recomendação).
+Mas de forma geral, ao realizar as atividades você estará se 
+envolvendo com os assuntos estudados, facilitando a assimilação deles.
+Portanto, *a realização das atividades é altamente recomendado*.
+
+Será que você atingiu o objetivo proposto? Vamos verificar! 
+
+Após esta leitura, você se considera capaz de:
+
+____
+
+*_Reconhecer_* _quais competências poderão ser desenvolvidas no 
+ambiente escolar durante o estágio 2_?
+____
+
+Se você respondeu negativamente:: Recomendo que você compartilhe suas
+dúvidas com seu tutor ou no fórum da sala de aula. É uma boa prática
+_anexar suas respostas da atividade quando for postar sua dúvida_, 
+desta forma o tutor poderá compreender melhor o seu ponto de vista.
+Esta é uma recomendação para todas suas futuras dúvidas.
+
+Se você respondeu afirmativamente:: Parabéns! Você atingiu o 
+objetivo esperado com esta atividade.
+
+Por fim, é importante esclarecer que estas atividades *não valem nota*. 
+Elas estão aqui para guiar o seu estudo, para possibilitar que você 
+realize uma *auto-avaliação* e verificar se você está atingindo os 
+objetivos propostos pela disciplina.
+
+Bom estudo! E seja bem vindo(a) ao Estágio 2!
 
 ====
+

@@ -2,6 +2,7 @@
 
 :img: images/egresso
 
+:atividade: https://raw.githubusercontent.com/edusantana/estagio2-lcc-livro/{edition}/atividades/cap1-atividades.docx
 
 .Objetivos do capítulo
 ____

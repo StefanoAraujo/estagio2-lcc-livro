@@ -1,0 +1,30 @@
+= Caderno de atividades do Estágio 2: Capítulo 1 =
+
+== Estagiando na Escola
+
+=== O perfil do egresso do curso de Licenciatura em Computação (LC)
+
+==== Atividade: Reconhecendo as competências que serão desenvolvidas no Estágio 2
+
+Para cada uma das competências a seguir, registre *Sim* se você
+considera que a competência faz parte da proposta desta disciplina,
+registre *Não* caso contrário.
+
+[cols="8,2^", options="header",valign="middle"]
+|====
+^| Competência |  Pertence à proposta do Estágio 2 
+| Entender os aspectos econômicos e financeiros das organizações e propor soluções de hardware e software para otimizar seus processos; | _Não_
+| Empregar metodologias que visem garantir critérios de qualidade ao longo de todas as etapas de desenvolvimento de uma solução computacional; | 
+| Desenvolver sistemas integrados e sistemas embarcados, incluindo o desenvolvimento de software para esses sistemas; |
+| Especificar e avaliar softwares e equipamentos para aplicações educacionais e de Educação à Distancia; | 
+| Projetar e desenvolver softwares e hardware educacionais e de educação à distância em equipes interdisciplinares; | 
+| Atuar junto ao corpo docente das Escolas da Educação Básica  e suas modalidades no uso efetivo e adequado das tecnologias da educação; | 
+| Produzir material didático; | 
+| Administrar laboratórios de informática para fins educacionais; | 
+| Atuar como agentes integradores promovendo a acessibilidade digital; | 
+| Atuar como docente com a visão de avaliação crítica e reflexiva; | 
+| Propor, coordenar e avaliar, projetos de ensino-aprendizagem assistidos por computador que propiciem a pesquisa. |  
+|====
+
+
+
