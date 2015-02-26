@@ -6,6 +6,13 @@
 :online: {gitrepo}/blob/{edition}/livro/code/{cap}
 :local: code/{cap}
 
+Seja bem-vindo(a) à disciplina de Estágio 2 do Curso de Licenciatura em Computação, onde você continuará a observar a escola, mas poderá também realizar atividades lá aproveitando a formação que tem recebido no curso.
+
+Neste livro iremos detalhar melhor as competências esperadas para um egresso do curso de Licenciatura em Computação e discutiremos algumas ideias de atividades que podem ser desenvolvidas no Estágio 2 para desenvolver em você tais competências. 
+
+Esperamos que as ideias aqui apresentadas lhe sejam úteis e que possamos discutir ao longo da disciplina outras ideias também e que lhe ajudarão no planejamento, execução e avaliação de suas ações como estagiário na escola. 
+
+
 === Compreendendo a proposta instrucional do livro
 
 ==== Realizando uma atividade no computador
@@ -25,7 +32,7 @@
 Se você estiver acessando a versão digital deste livro, *clique*
 nos ícones acima. *Faça isso agora!*
 
-NOTE: Se você tiver acesso à internet, será iniciado o download
+NOTE: Se você tiver acesso à Internet, será iniciado o download
 de um arquivo contendo uma atividade. Você poderá utilizar este
 arquivo para registrar suas respostas da atividade.
 
@@ -37,12 +44,12 @@ image::images/icones.svg[scaledwidth="50%"]
 *Você pode baixar todos os arquivos de atividades
 de uma única vez acessando*: {gitrepo}/archive/{edition}.zip
 
-Depois de baixar e descompactar o arquivo, você encontrar os arquivos
+Depois de baixar e descompactar o arquivo, você poderá encontrar os arquivos
 de atividades na pasta `atividades`.
 
 ====
 
-NOTE: Desta forma você sempre poderá realizar as atividades propostas,
+NOTE: Desta forma, você sempre poderá realizar as atividades propostas,
 seja no computador ou no papel.
 
 ==== Resposta Comentada
@@ -50,17 +57,21 @@ seja no computador ou no papel.
 Quando uma atividade é proposta, a próxima página irá conter uma
 *resposta comentada* seguida de um *feedback*.
 
-Não há mal em avançar direto para as respostas comentadas, na 
-realidade elas estão logo na próxima página pois caso você tenha pouco
-tempo para os estudos poderá ter acesso rápido às respostas.
+Não há mal em avançar direto para as respostas comentadas. Na 
+realidade elas estão logo na próxima página, mas faça um esforço para só analisá-las depois de tentar
+produzir suas próprias respostas.
 
-Mas de forma geral, ao realizar as atividades você estará se 
-envolvendo com os assuntos estudados, facilitando a assimilação deles.
+//pois caso você tenha pouco tempo para os estudos poderá ter acesso rápido às respostas.
+
+//Ayla: Alterei
+
+De forma geral, ao realizar as atividades, você estará se 
+envolvendo melhor com os assuntos estudados e isso facilitará a assimilação deles.
 Portanto, *a realização das atividades é altamente recomendada*.
 
 ==== Compreendendo os objetivos de aprendizagem
 
-No início de cada capítulo, são apresentados seus objetivos 
+Você observará que no início de cada capítulo serão apresentados seus objetivos 
 de aprendizagem. Cada objetivo dará origem a uma ou mais atividades.
 
 Por exemplo, o primeiro objetivo de aprendizagem do livro seria:
@@ -72,18 +83,19 @@ Ao final deste capítulo você será capaz de:
 1. *Lembrar* do perfil de egresso do curso de Licenciatura em Ciência
 da Computação (LC) e das competências esperadas para este
 profissional, *reconhecendo* quais competências poderão ser
-desenvolvidas no ambiente escolar durante o estágio 2.
+desenvolvidas no ambiente escolar durante o Estágio 2.
 
 ____
 
-O capítulo irá abordar o assunto sobre _o perfil do egresso e as competências
+Observando esse objetivo você saberá que o capítulo irá discutir sobre _o perfil do egresso e as competências
 esperadas para este profissional_. Em seguida, virá o momento de você verificar
 se você está atingindo o objetivo proposto:  *_reconhecendo_* _quais competências 
-poderão ser desenvolvidas no ambiente escolar durante o estágio 2_.
+poderão ser desenvolvidas no ambiente escolar durante o Estágio 2_.
 
 
-TIP: Lembre-se que você poderá realizar esta atividade no papel ou no
-computador, clicando nos ícones da atividade, como você fez 
+TIP: Lembre-se que você poderá realizar no papel ou no
+computador esta atividade que tem o propósito de verificar se os objetivos de aprendizagem foram alcançados.
+Para isso, basta clicar nos ícones da atividade, como você fez 
 anteriormente.
 
 
