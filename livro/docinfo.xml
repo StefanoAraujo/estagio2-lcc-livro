@@ -3,6 +3,16 @@
 <revhistory>
 
 <revision>
+  <revnumber>v0.0.4</revnumber>
+  <date>26/02/2015</date>
+  <authorinitials> Ayla </authorinitials>
+  <revremark>
+<ulink url="{gitrepo}/issues/5">Atualização do prefácio;</ulink>
+  </revremark>
+</revision>
+
+
+<revision>
   <revnumber>v0.0.3</revnumber>
   <date>25/02/2015</date>
   <authorinitials> Eduardo </authorinitials>
