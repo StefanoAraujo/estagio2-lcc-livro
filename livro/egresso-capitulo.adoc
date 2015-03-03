@@ -14,11 +14,10 @@ da Computação (LC) e das competências esperadas para este
 profissional, *reconhecendo* quais competências poderão ser
 desenvolvidas no ambiente escolar durante o estágio 2.
 
-////
 2. *Entender* o seu papel como estagiário na escola, *exemplificando*
-ações que pode desenvolver durante seu estágio de forma mais
-detalhada.
+ações que pode desenvolver durante seu estágio.
 
+////
 3. *Analisar* a importância do profissional egresso em LCC na escola e
 seus desafios *concluindo* esta análise com o levantamento de um
 esboço de um plano topicalizado para o seu estágio.
@@ -27,3 +26,6 @@ esboço de um plano topicalizado para o seu estágio.
 ____
 
 include::egresso1-competencias.adoc[]
+
+include::egresso2-acoes-na-escola.adoc[]
+

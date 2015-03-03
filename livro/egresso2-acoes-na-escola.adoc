@@ -1,0 +1,337 @@
+
+<<<
+
+===  Exemplos de ações do estagiário em LC nas Escolas
+
+Observando as competências esperadas para um profissional licenciado
+em Computação (você em breve), diversas ações podem ser desenvolvidas
+ao longo de um estágio no contexto escolar. Algumas delas são
+sugeridas a seguir e poderão variar bastante dependendo do nível de
+ensino em que você irá trabalhar. Ao desenvolver tais ações, você
+estará recebendo a formação técnica, profissional, científica, humana
+e social esperada para um licenciado em Computação. Embora sejam
+listadas a seguir algumas possíveis ações a desenvolver como
+sugestões, muitas outras atividades podem ser desenvolvidas,desde que
+o foco seja a formação do profissional de LC que atua no ensino
+básico, e que é o objetivo principal do Estágio 2 em LC.
+
+Antes de observar alguns exemplos, tente listar no espaço abaixo
+exemplos de atividades que você acha que um estagiário de LC pode
+desenvolver na escola, considerando os dois perfis de estágio
+discutidos anteriormente.
+
+.Estagiário atuando como professor de informática
+|====
+| Atividades
+| A1. Dar aulas sobre criação de slides com Impress.
+| A2.
+| A3.
+| A4.
+| A5. 
+|====
+
+.Estagiário atuando como agente promotor do uso da tecnologia na educação
+|====
+| Atividades
+| A1. Auxiliar o professor de Geografia em uma aula utilizando o Google Maps. 
+| A2.
+| A3.
+| A4.
+| A5. 
+|====
+
+TIP: Tente realizar essa atividade antes de prosseguir sua leitura.
+De repente você pode pensar em atividades que nem estarão listadas a
+seguir, ou pode descobrir que algumas das atividades que pensou não
+são na verdade boas atividades para um estágio, mas só tentando
+executar essa atividade é que conseguirá ganhar essa maturidade.
+
+Embora existam dois perfis principais para o estágio, suas atividades
+podem contemplar os dois perfis, tornando-lhe um profissional capaz de
+atuar nessas duas áreas.
+
+==== Planejamento e execução de um projeto de ensino-aprendizagem multidisciplinar que explore recursos de informática
+
+Prega-se muito o uso da pedagogia de projetos de forma integrada com a
+informática. Nesse contexto, são incentivados projetos com ações
+envolvendo diversos professores e até a escola como um todo. Um bom
+estágio para você, como um aluno de licenciatura em computação,
+poderia ser o planejamento de um projeto envolvendo diversas
+disciplinas e onde diferentes recursos de informática podem ser
+explorados para atrair os alunos e envolvê-los no projeto.
+
+Exemplos de recursos que podem ser explorados são: grupos e fan pages
+em redes sociais como Facebook, criação de blogs, criação de sites,
+uso de câmeras digitais e celulares para registrar fatos do cotidiano
+e os passos do projeto, uso de softwares educacionais em aulas
+(podendo aí se explorar tanto softwares projetados para fins
+educacionais, como outros tipos de software, não obrigatoriamente
+projetados para este fim, mas que podem ser explorados no processo de
+ensino-aprendizagem), etc.
+
+Para o desenvolvimento de um projeto multidisciplinar é importante
+pensar em um tema que seja interessante e que possa ser trabalhado por
+diferentes professores e ter o apoio desses professores tanto no
+planejamento quanto na execução do projeto. O planejamento de um
+projeto assim envolve a definição do tema, justificativa para sua
+escolha, definição das disciplinas envolvidas, conteúdos trabalhados,
+atividades planejadas para cada uma e recursos de tecnologia ou não
+que serão explorados em cada atividade.
+
+Você pode encontrar mais informações sobre projetos integrados, neste
+material do MEC:
+
+* http://portaldoprofessor.mec.gov.br/storage/materiais/0000011622.pdf
+
+
+==== Planejamento e execução de um projeto pedagógico que explore recursos de TIC em uma única disciplina 
+
+O foco do seu estágio em LC pode ser o desenvolvimento de um projeto
+pedagógico envolvendo uma única disciplina. A ideia principal é
+planejar uma sequência de aulas explorando recursos de TIC. O
+planejamento envolve reuniões com o(a) professor(a) da disciplina para
+definir conteúdos a trabalhar, a pesquisa e avaliação de recursos de
+TIC ou não (como jogos não digitais), a preparação de sequências
+didáticas detalhando recursos a utilizar, de exercícios a serem
+trabalhados e a escrita de um projeto com essas informações. Depois do
+planejamento, o projeto deve ser posto em prática e avaliado,
+principalmente considerando possíveis benefícios de se trabalhar o
+conteúdo dessa maneira ao invés de utilizar o método convencional de
+ensino. Há inúmeros exemplos de aulas e coleções de aulas para
+diferentes disciplinas no portal do professor:
+
+* http://portaldoprofessor.mec.gov.br/buscarAulas.html
+
+==== Organização e administração de laboratórios de informática para fins educacionais
+
+Em muitas escolas, inclusive públicas, se observa a presença de
+laboratórios de informática. No entanto, algumas vezes, tais
+laboratórios não são utilizados para apoiar a educação ou são
+subutilizados. Em alguns casos, isso se deve à falta de um
+profissional devidamente capacitado para organizar e administrar esses
+laboratórios. Espera-se que o licenciado em Computação seja esse
+profissional e que permita o uso apropriado da informática para apoiar
+a educação. 
+
+Organizar e administrar um laboratório de informática para fins
+educacionais compreende observar máquinas problemáticas e
+encaminhá-las para a manutenção, identificar softwares a instalar ou
+atualizar nas máquinas, incluindo o sistema operacional, e instalar ou
+solicitar a técnicos a instalação desses softwares. Dentre os
+softwares a instalar nas máquinas, é importante destacar os softwares
+educacionais, ou seja, aqueles que podem ser explorados com a intenção
+de educar. Alguns softwares a instalar são aqueles que já são
+concebidos com o propósito educacional, ou seja, os softwares
+educativos. Outros softwares educacionais necessários nos laboratórios
+das escolas são os programas de propósito geral, como editores de
+texto e de apresentação ou as planilhas eletrônicas, e que podem ser
+explorados em diferentes atividades de diversas disciplinas. Por
+exemplo, o software para edição de planilha eletrônica pode ser
+explorado para trabalhar conteúdos da matemática. Para a seleção dos
+softwares a instalar nos laboratórios, é importante observar as
+necessidades da escola e avaliar estes programas e sua adequação às
+séries e disciplinas em que se deseja aplicá-los, realizando para isso
+um trabalho conjunto com o corpo docente da escola.
+
+Além de selecionar os softwares, o que deve ser uma atividade
+constante e que demanda tanto a formação técnica quanto a pedagógica
+do licenciado em computação, o egresso deste curso deve ser capaz de
+apoiar outros professores durante aulas que utilizem este software,
+seja na aula em si, ou em aulas prévias para possibilitar a inclusão
+digital de alunos sem contato prévio com computadores ou com o uso de
+certos softwares.
+
+
+
+==== Desenvolvimento de materiais instrucionais utilizando recursos tecnológicos disponíveis junto ao corpo docente da escola
+
+Como estagiário de LC atuando na escola, você pode auxiliar
+professores no desenvolvimento de materiais instrucionais que
+facilitem o aprendizado de determinados conteúdos, como apresentações
+digitais, vídeos e animações. Ao desenvolver esse tipo de atividade é
+importante antes analisar se já existe um material dessa natureza
+desenvolvido, pesquisando, por exemplo no YouTube ou no Portal do
+Professor (http://portaldoprofessor.mec.gov.br/recursos.html), tanto
+para evitar" reinventar a roda" quanto para posteriormente poder fazer
+uma análise comparativa do seu recurso com algum existente. Para o
+desenvolvimento dos materiais instrucionais, você pode utilizar
+softwares para fazer apresentações (como o Power Point, do pacote
+Office da Microsoft ou o Impress do Libre Office). Outra opção é
+produzir vídeos utilizando o celular, sua web cam, algum software de
+filmagem de tela (screen capture), ou mesmo o próprio YouTube por meio
+dos seus serviços de criação de vídeo
+(https://www.youtube.com/upload). O licenciado em computacão pode
+ainda apoiar na criação de exercícios que tenham finalidade
+instrucional e sejam dinâmicos, utilizando ferramentas como sofwares
+de autoria para isso. Um exemplo desse tipo de software é o Hot
+Potatoes (http://hotpot.uvic.ca/), que permite a criação de diferentes
+tipos de exercícios, como cruzadinhas e questões de múltipla escolha.
+Existe ainda o Visual Class (http://www.classinformatica.com.br/ ) ,
+que permite a criação de aulas e apresentações com recursos
+multimídia. 
+
+
+
+==== Levantamento, catalogação e avaliação de objetos de aprendizagem que podem auxiliar os professores da escola
+
+Uma das atividades que podem ser desenvolvidas pelo estagiário de LC é
+o levantamento de alguns objetos de aprendizagem (OAs) que podem ser
+úteis aos professores da escola, como uma animação para explicar
+determinado conteúdo, um jogo online que sirva como exercício, um
+vídeo que ilustre determinado conceito, etc. Além de coletar ideias de
+diversos OAs, como estagiário, você deve também organizar essa lista
+de objetos encontrados catalogando-os de acordo com a série e o
+conteúdo trabalhado, um trabalho que deve ser feito em parceria com
+professores das disciplinas e a equipe pedagógica da escola. É
+importante também que ao montar o seu catálogo de objetos, você deixe
+sua impressão sobre ele por meio de uma avaliação, mesmo que informal.
+Após cursar a disciplina do curso sobre objetos de aprendizagem, você
+poderá no futuro fazer uma avaliação mais detalhada e formal de alguns
+desses OAs.
+
+
+==== Ensino de informática básica
+
+Durante a disciplina de Estágio 2 você poderá atuar na escola por meio
+do desenvolvimento de algumas aulas de informática básica para
+promover assim a inclusão digital de alguns alunos. Embora para muitos
+o uso do computador ou de dispositivos como tablets seja algo muito
+natural, para outros alunos, até mesmo o uso do teclado ou do mouse é
+algo com que não têm familiaridade. Há também casos de estudantes que
+dominam o uso desses dispositivos, mas que não compreendem bem o uso
+de um sistema operacional (como o Windows 8, ou o Linux Educacional) e
+seus aplicativos básicos.
+
+
+==== Ensino de lógica básica
+
+O desenvolvimento do raciocínio lógico é algo muito importante e
+necessário para o nosso cotidiano, pois muitas vezes somos convidados
+a pensar para resolver algum problema. A lógica oferece várias
+ferramentas que nos ajudam a organizar o nosso raciocínio, e ensinar
+algumas noções básicas dessa disciplina na escola pode ser algo muito
+importante. Um estágiário de licenciatura em computação poderia
+abordar no seu estágio algumas aulas sobre princípios do raciocínio
+lógico e fazer uma introdução a lógica, trabalhando, por exemplo,
+conectivos lógicos como conjunções, disjunções, negação, etc e
+abordando como exercícios questões de concurso.
+
+TIP: Além disso, percebe-se que têm se tornado cada vez mais comum a
+cobrança de lógica em concursos públicos, inclusive de nível
+fundamental e médio, sendo portanto interessante abordar ainda na
+escola algumas técnicas
+
+==== Ensino introdutório de programação
+
+Uma forma de desenvolver o raciocínio lógico dos estudantes do ensino
+básico é ensinar-lhes noções de programação. Isso pode ser feito por
+meio de uma linguagem de programação propriamente dita (como Python ou
+C) ou ainda por meio de ferramentas como o Scratch
+(https://scratch.mit.edu/) que permitem a criação de jogos, histórias
+e animações que podem ser compartilhadas, o que poderia motivar
+bastante os alunos. Uma outra forma de também introduzir um pouco de
+programação e de forma visual aos estudantes é por meio do uso da
+ferramenta GameMaker (https://www.yoyogames.com/studio), que é bem
+intuitiva e pode ser facilmente explorada por alunos do ensino
+fundamental II (6o. ao 9o. ano) ou por alunos do ensino médio.
+
+==== Ensino de robótica
+
+Considerando que algumas escolas, inclusive da rede pública, possuem
+algumas vezes kits de robótica, é importante que esses recursos possam
+ser aproveitados da melhor forma. Mesmo que você nunca tenha
+trabalhado com robótica ou que não tenha o conhecimento específico de
+algum kit disponível na escola, você será capaz de aprender facilmente
+a trabalhar com ele. Após isso, poderá dar aulas de introdução a
+robótica na escola utilizando esses kits, e fazendo com que o
+interesse dos alunos pela computação possa aumentar, uma vez que eles
+poderão ver seus programas traduzidos em movimentos de robôs. 
+
+
+==== Ensino do pensamento computacional e algorítmico
+
+Acredita-se que o ensino de computação (mesmo sem computadores, com
+estratégias como computação desplugada) e do pensamento algorítmico
+têm muito a contribuir para ajudar os estudantes na organização do seu
+pensamento para resolver problemas. Sendo assim, é interessante tentar
+explorar durante o estágio aulas de introdução ao pensamento
+computacional e algorítmico, dando aos estudantes a noção de passos
+para resolver um problema e estratégias para estruturar esses passos. 
+
+////
+Faltou informar um exemplo prático de como seria isso para eles.
+////
+
+==== Atividade: Entendendo seu papel como estagiário exemplificando possíveis ações suas na escola
+
+Como estagiário, você precisa elaborar um plano de atividades.
+Considerando o perfil de egresso do curso de Licenciatura em
+Computação, suas competências esperadas, os exemplos de ações que o
+estagiário pode realizar nas escolas e o que observou na escola em que
+pretende realizar seu estágio, liste ao menos 3 atividades que poderá
+desenvolver nessa escola e que poderão estar em seu plano.
+
+TIP: Não precisa detalhar as atividades. Apenas construa uma lista
+contendo ao menos 3 atividades
+
+
+Uma possível lista de atividades poderia ser esta:
+
+*A1.* Planejar e executar um projeto pedagógico multidisciplinar
+envolvendo o uso de recursos de TIC.
+
+*A2.* Fazer o levantamento de objetos de aprendizagem a utilizar durante
+o projeto.
+
+*A3.* Desenvolver junto com os professores materiais instrucionais para
+apoiar diferentes disciplinas.
+
+*A4.* Organizar o laboratório da escola garantindo que os recursos
+demandados pelo projeto estarão disponíveis nas máquinas da escola.
+
+Um outra possível lista de atividades poderia ser esta:
+
+*A1.* Dar aulas de informática básica aos alunos para promover sua
+inclusão digital.
+
+*A2.* Ensinar noções de lógica e do pensamento computacional.
+
+*A3.* Explorar aulas de desenvolvimento de jogos simples usando a
+ferramenta GameMaker.
+
+[TIP]
+====
+
+Observe que se você quer atuar como agente promotor do uso da
+informática na educação, você teria um plano de atividades como este
+primeiro. Se você quiser atuar como professor de informática, pode ter
+um plano de atividades como este segundo. Você também pode ter um
+plano de atividades que mistura atividades dos dois perfis,
+desenvolvendo assim diferentes competências durante o seu estágio.
+
+====
+
+
+////
+
+O feedback é um momento de interação, envolvimento com o aluno. Seu
+diálogo deve ser com base nas respostas do aluno. Esse seu feedback
+pareceu que você estava instruindo, mas conversando sozinha. Imagine
+dois ou três alunos diferentes na sua frente, o que cada um deles
+iriam responder? O que você falaria para cada um deles? Que
+dificuldades eles poderiam ter ao realizar esta atividade? Eles
+possuem algum medo ou receio? O que você diria para eles?
+
+
+[TIP]
+.Feedback
+====
+
+E aí? Por qual dos dois caminhos você optou?
+
+Será que suas atividades estão definidas de forma concreta o
+suficiente? Será que essa atividades que você definiu são realmente
+atividades esperadas para um licenciado em computação? 
+
+====
+////
