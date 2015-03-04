@@ -242,7 +242,7 @@ necessário para o nosso cotidiano, pois muitas vezes somos convidados
 a pensar para resolver algum problema. A lógica oferece várias
 ferramentas que nos ajudam a organizar o nosso raciocínio, e ensinar
 algumas noções básicas dessa disciplina na escola pode ser algo muito
-importante. Um estágiário de licenciatura em computação poderia
+importante. Um estagiário de licenciatura em computação poderia
 abordar no seu estágio algumas aulas sobre princípios do raciocínio
 lógico e fazer uma introdução a lógica, trabalhando, por exemplo,
 conectivos lógicos como conjunções, disjunções, negação, etc e
