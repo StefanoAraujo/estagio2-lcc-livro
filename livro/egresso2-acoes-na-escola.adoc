@@ -1,53 +1,85 @@
 
 <<<
 
-===  Exemplos de ações do estagiário em LC nas Escolas
+===  Exemplos de atividades do estagiário em LC nas Escolas
 
 Observando as competências esperadas para um profissional licenciado
-em Computação (você em breve), diversas ações podem ser desenvolvidas
-ao longo de um estágio no contexto escolar. Algumas delas são
-sugeridas a seguir e poderão variar bastante dependendo do nível de
-ensino em que você irá trabalhar. Ao desenvolver tais ações, você
-estará recebendo a formação técnica, profissional, científica, humana
-e social esperada para um licenciado em Computação. Embora sejam
-listadas a seguir algumas possíveis ações a desenvolver como
-sugestões, muitas outras atividades podem ser desenvolvidas,desde que
-o foco seja a formação do profissional de LC que atua no ensino
-básico, e que é o objetivo principal do Estágio 2 em LC.
+em Computação, diversas atividades podem ser desenvolvidas
+ao longo de um estágio no contexto escolar. Algumas delas serão
+sugeridas mais adiante e poderão variar bastante, dependendo do nível de
+ensino em que você irá trabalhar. 
 
-Antes de observar alguns exemplos, tente listar no espaço abaixo
+Antes de observar algumas atividades, tente listar, no espaço seguinte,
 exemplos de atividades que você acha que um estagiário de LC pode
-desenvolver na escola, considerando os dois perfis de estágio
+desenvolver na escola -- considerando os dois perfis de estágio
 discutidos anteriormente.
 
-.Estagiário atuando como professor de informática
+[options="header"]
 |====
-| Atividades
+^| Atividades ao atuar como professor(a) de informática
 | A1. Dar aulas sobre criação de slides com Impress.
 | A2.
+
+{nbsp}
+
 | A3.
+
+{nbsp}
+
 | A4.
+
+{nbsp}
+
 | A5. 
+
+{nbsp}
 |====
 
-.Estagiário atuando como agente promotor do uso da tecnologia na educação
+[options="header"]
 |====
-| Atividades
+^| Atividades ao atuar como agente promotor(a) do uso da tecnologia na educação
 | A1. Auxiliar o professor de Geografia em uma aula utilizando o Google Maps. 
 | A2.
+
+{nbsp}
 | A3.
+
+{nbsp}
 | A4.
+
+{nbsp}
 | A5. 
+
+{nbsp}
 |====
 
 TIP: Tente realizar essa atividade antes de prosseguir sua leitura.
 De repente você pode pensar em atividades que nem estarão listadas a
-seguir, ou pode descobrir que algumas das atividades que pensou não
-são na verdade boas atividades para um estágio, mas só tentando
+seguir, ou pode descobrir que algumas das atividades que pensou
+são impróprias para um estágio, mas só tentando
 executar essa atividade é que conseguirá ganhar essa maturidade.
 
-Embora existam dois perfis principais para o estágio, suas atividades
-podem contemplar os dois perfis, tornando-lhe um profissional capaz de
+<<<
+
+[TIP]
+.Feedback
+====
+
+O propósito deste exercício é lhe insentivar a pensar em atividades
+que você poderia desempenhar em seu estágio, sem se restringir às
+atividades que serão apresentadas nesta seção.
+
+====
+
+Embora as próximas seções contenham sugestões de atividades,
+muitas outras atividades podem ser desenvolvidas, _desde que o foco
+seja a formação do profissional de LC para atuar no ensino básico_, 
+que é o objetivo principal do Estágio 2 em LC. Ao desenvolver tais
+atividades, você estará recebendo a formação técnica, profissional,
+científica, humana e social esperada para um licenciado em Computação.
+
+IMPORTANT: Embora existam dois perfis principais para o estágio, *suas atividades
+podem contemplar os dois perfis*, tornando-lhe um profissional capaz de
 atuar nessas duas áreas.
 
 ==== Planejamento e execução de um projeto de ensino-aprendizagem multidisciplinar que explore recursos de informática
@@ -60,7 +92,7 @@ poderia ser o planejamento de um projeto envolvendo diversas
 disciplinas e onde diferentes recursos de informática podem ser
 explorados para atrair os alunos e envolvê-los no projeto.
 
-Exemplos de recursos que podem ser explorados são: grupos e fan pages
+Exemplos de recursos que podem ser explorados são:: Grupos e fan pages
 em redes sociais como Facebook, criação de blogs, criação de sites,
 uso de câmeras digitais e celulares para registrar fatos do cotidiano
 e os passos do projeto, uso de softwares educacionais em aulas
@@ -71,11 +103,11 @@ ensino-aprendizagem), etc.
 
 Para o desenvolvimento de um projeto multidisciplinar é importante
 pensar em um tema que seja interessante e que possa ser trabalhado por
-diferentes professores e ter o apoio desses professores tanto no
+diferentes professores e ter o apoio desses professores, tanto no
 planejamento quanto na execução do projeto. O planejamento de um
 projeto assim envolve a definição do tema, justificativa para sua
 escolha, definição das disciplinas envolvidas, conteúdos trabalhados,
-atividades planejadas para cada uma e recursos de tecnologia ou não
+atividades planejadas para cada disciplina e recursos (tecnológicos ou não)
 que serão explorados em cada atividade.
 
 Você pode encontrar mais informações sobre projetos integrados, neste
@@ -262,11 +294,11 @@ para resolver um problema e estratégias para estruturar esses passos.
 Faltou informar um exemplo prático de como seria isso para eles.
 ////
 
-==== Atividade: Entendendo seu papel como estagiário exemplificando possíveis ações suas na escola
+==== Atividade: Entendendo seu papel como estagiário exemplificando possíveis atividades na escola
 
 Como estagiário, você precisa elaborar um plano de atividades.
 Considerando o perfil de egresso do curso de Licenciatura em
-Computação, suas competências esperadas, os exemplos de ações que o
+Computação, suas competências esperadas, os exemplos de atividades que o
 estagiário pode realizar nas escolas e o que observou na escola em que
 pretende realizar seu estágio, liste ao menos 3 atividades que poderá
 desenvolver nessa escola e que poderão estar em seu plano.
@@ -274,30 +306,68 @@ desenvolver nessa escola e que poderão estar em seu plano.
 TIP: Não precisa detalhar as atividades. Apenas construa uma lista
 contendo ao menos 3 atividades
 
+[options="header"]
+|====
+^| Lista de atividades que você poderia desempenhar no seu estágio
+| *A1.* 
+
+{nbsp}
+| *A2.*
+
+{nbsp}
+
+| *A3.*
+
+{nbsp}
+
+| A4.
+
+{nbsp}
+
+| A5. 
+
+{nbsp}
+
+| A6. 
+
+{nbsp}
+
+| A7. 
+
+{nbsp}
+
+| A8. 
+
+{nbsp}
+|====
+
+
+<<<
+
+*Resposta comentada:*
 
 Uma possível lista de atividades poderia ser esta:
 
-*A1.* Planejar e executar um projeto pedagógico multidisciplinar
+|====
+| *A1.* Planejar e executar um projeto pedagógico multidisciplinar
 envolvendo o uso de recursos de TIC.
-
-*A2.* Fazer o levantamento de objetos de aprendizagem a utilizar durante
+| *A2.* Fazer o levantamento de objetos de aprendizagem a utilizar durante
 o projeto.
-
-*A3.* Desenvolver junto com os professores materiais instrucionais para
+| *A3.* Desenvolver junto com os professores materiais instrucionais para
 apoiar diferentes disciplinas.
-
-*A4.* Organizar o laboratório da escola garantindo que os recursos
+| *A4.* Organizar o laboratório da escola garantindo que os recursos
 demandados pelo projeto estarão disponíveis nas máquinas da escola.
+|====
 
-Um outra possível lista de atividades poderia ser esta:
+Outra possível lista de atividades poderia ser:
 
-*A1.* Dar aulas de informática básica aos alunos para promover sua
+|====
+| *A1.* Dar aulas de informática básica aos alunos para promover sua
 inclusão digital.
-
-*A2.* Ensinar noções de lógica e do pensamento computacional.
-
-*A3.* Explorar aulas de desenvolvimento de jogos simples usando a
+| *A2.* Ensinar noções de lógica e do pensamento computacional.
+| *A3.* Explorar aulas de desenvolvimento de jogos simples usando a
 ferramenta GameMaker.
+|====
 
 [TIP]
 ====
