@@ -27,4 +27,90 @@ registre *Não* caso contrário.
 |====
 
 
+===  Exemplos de atividades do estagiário em LC nas Escolas
 
+Antes de observar algumas atividades, tente listar, no espaço seguinte,
+exemplos de atividades que você acha que um estagiário de LC pode
+desenvolver na escola -- considerando os dois perfis de estágio
+discutidos anteriormente.
+
+[options="header"]
+|====
+| Atividades ao atuar como professor(a) de informática
+| A1. Dar aulas sobre criação de slides com Impress.
+| A2.
+
+{nbsp}
+
+| A3.
+
+{nbsp}
+
+| A4.
+
+{nbsp}
+
+| A5. 
+
+{nbsp}
+|====
+
+[options="header"]
+|====
+| Atividades ao atuar como agente promotor(a) do uso da tecnologia na educação
+| A1. Auxiliar o professor de Geografia em uma aula utilizando o Google Maps. 
+| A2.
+
+{nbsp}
+| A3.
+
+{nbsp}
+| A4.
+
+{nbsp}
+| A5. 
+
+{nbsp}
+|====
+
+
+
+==== Atividade: Entendendo seu papel como estagiário exemplificando possíveis atividades na escola
+
+Liste ao menos 3 atividades que poderá
+desenvolver na escola e que poderão estar em seu plano.
+
+[options="header"]
+|====
+^| Lista de atividades que você poderia desempenhar no seu estágio
+| *A1.* 
+
+{nbsp}
+| *A2.*
+
+{nbsp}
+
+| *A3.*
+
+{nbsp}
+
+| A4.
+
+{nbsp}
+
+| A5. 
+
+{nbsp}
+
+| A6. 
+
+{nbsp}
+
+| A7. 
+
+{nbsp}
+
+| A8. 
+
+{nbsp}
+|====
