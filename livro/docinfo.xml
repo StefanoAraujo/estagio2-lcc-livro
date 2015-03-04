@@ -3,6 +3,16 @@
 <revhistory>
 
 <revision>
+  <revnumber>v0.0.5</revnumber>
+  <date>04/03/2015</date>
+  <authorinitials> Ayla </authorinitials>
+  <revremark>
+<ulink url="{gitrepo}/issues/2">Elaboração do cap1: segundo objetivo;</ulink>
+  </revremark>
+</revision>
+
+
+<revision>
   <revnumber>v0.0.4</revnumber>
   <date>26/02/2015</date>
   <authorinitials> Ayla </authorinitials>
