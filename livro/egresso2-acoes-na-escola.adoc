@@ -296,6 +296,17 @@ Faltou informar um exemplo prático de como seria isso para eles.
 
 ==== Atividade: Entendendo seu papel como estagiário exemplificando possíveis atividades na escola
 
+++++
+<simpara>
+<ulink url="{atividade}">
+<inlinemediaobject>
+<imageobject>
+<imagedata fileref="images/pagina-com-atividade.svg"/>
+</imageobject>
+</inlinemediaobject></ulink></simpara>
+++++
+
+
 Como estagiário, você precisa elaborar um plano de atividades.
 Considerando o perfil de egresso do curso de Licenciatura em
 Computação, suas competências esperadas, os exemplos de atividades que o
