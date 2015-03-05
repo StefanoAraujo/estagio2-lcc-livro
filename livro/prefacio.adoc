@@ -30,13 +30,16 @@ Esperamos que as ideias aqui apresentadas lhe sejam úteis e que possamos discut
 ++++
 
 Se você estiver acessando a versão digital deste livro, *clique*
-nos ícones acima. *Faça isso agora!*
+no ícone acima. *Faça isso agora!*
 
-NOTE: Se você tiver acesso à Internet, será iniciado o download
+[NOTE]
+====
+
+Se você tiver acesso à Internet, será iniciado o download
 de um arquivo contendo uma atividade. Você poderá utilizar este
 arquivo para registrar suas respostas da atividade.
 
-image::images/icones.svg[scaledwidth="50%"]
+====
 
 [TIP]
 ====

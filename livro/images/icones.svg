@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="200mm"
-   height="104.8541mm"
-   viewBox="0 0 708.66141 371.53019"
+   width="177.74911mm"
+   height="40.516903mm"
+   viewBox="0 0 629.81969 143.56379"
    id="svg3367"
    version="1.1"
    inkscape:version="0.91 r"
@@ -25,18 +25,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.6492713"
-     inkscape:cx="402.38728"
-     inkscape:cy="91.233858"
+     inkscape:zoom="1.2322658"
+     inkscape:cx="321.74613"
+     inkscape:cy="-15.268467"
      inkscape:document-units="px"
-     inkscape:current-layer="g4671"
+     inkscape:current-layer="layer1"
      showgrid="false"
      fit-margin-top="1"
      fit-margin-left="1"
      fit-margin-right="1"
      fit-margin-bottom="1"
-     inkscape:window-width="1855"
-     inkscape:window-height="1056"
+     inkscape:window-width="1301"
+     inkscape:window-height="744"
      inkscape:window-x="65"
      inkscape:window-y="24"
      inkscape:window-maximized="1" />
@@ -56,197 +56,79 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(51.887168,-46.09194)">
+     transform="translate(12.466313,-64.091933)">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:'Standard Symbols L';-inkscape-font-specification:'Standard Symbols L';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:Purisa;-inkscape-font-specification:Purisa;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="39.372837"
-       y="79.605217"
+       y="97.605217"
        id="text3405-27-4-5"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          x="39.372837"
-         y="79.605217"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;font-family:Purisa;-inkscape-font-specification:'Purisa Bold';text-align:start;text-anchor:start"
+         y="97.605217"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:Purisa;-inkscape-font-specification:Purisa;text-align:start;text-anchor:start"
          id="tspan3613-7">Compreendendo a iconografia</tspan></text>
     <g
        id="g4671"
        transform="translate(39.420855,0)">
-      <g
-         transform="translate(0,3.4061665)"
-         id="g4607">
-        <g
-           id="g3100"
-           transform="translate(-32.122885,351.11198)">
-          <path
-             id="path3090"
-             d="M 0,0 48,0 48,48 0,48 Z"
-             inkscape:connector-curvature="0"
-             style="fill:none" />
-          <path
-             id="path3092"
-             d="m 40,36 c 2.21,0 3.98,-1.79 3.98,-4 L 44,12 C 44,9.79 42.21,8 40,8 L 8,8 C 5.79,8 4,9.79 4,12 l 0,20 c 0,2.21 1.79,4 4,4 l -8,0 0,4 48,0 0,-4 -8,0 z M 8,12 40,12 40,32 8,32 8,12 Z"
-             inkscape:connector-curvature="0" />
-        </g>
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.70573616px;line-height:125%;font-family:'Standard Symbols L';-inkscape-font-specification:'Standard Symbols L';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.98999999;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           x="26.571575"
-           y="370.12198"
-           id="text3405-27-4-9"
-           sodipodi:linespacing="125%"><tspan
-             sodipodi:role="line"
-             x="26.571575"
-             y="370.12198"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Purisa;-inkscape-font-specification:'Purisa, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"
-             id="tspan3609">Se preferir, realize a atividade no computador, </tspan><tspan
-             sodipodi:role="line"
-             x="26.571575"
-             y="391.99698"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Purisa;-inkscape-font-specification:'Purisa, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"
-             id="tspan4582">registrando suas respostas no arquivo fornecido.</tspan></text>
-      </g>
       <rect
          style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.99999964;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect3615-7-3"
          width="620.73309"
-         height="69.121437"
+         height="85.188576"
          x="-47.343861"
-         y="343.95743"
-         ry="5.92168" />
-    </g>
-    <g
-       id="g4651"
-       transform="translate(39.420855,81.746227)">
+         y="117.92386"
+         ry="7.2981625" />
       <g
-         transform="translate(0,9.0417296)"
-         id="g4591">
-        <text
-           sodipodi:linespacing="125%"
-           id="text3623"
-           y="200.85397"
-           x="26.571575"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.70573616px;line-height:125%;font-family:'Standard Symbols L';-inkscape-font-specification:'Standard Symbols L';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.98999999;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           xml:space="preserve"><tspan
-             id="tspan3627"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Purisa;-inkscape-font-specification:'Purisa, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"
-             y="200.85397"
-             x="26.571575"
-             sodipodi:role="line">Se você estiver lendo o livro no impresso, pegue</tspan><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Purisa;-inkscape-font-specification:'Purisa, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"
-             y="222.72897"
-             x="26.571575"
-             sodipodi:role="line"
-             id="tspan4536">um Lápis ou caneta para realizar a atividade.</tspan></text>
+         id="g3422"
+         transform="translate(0,-222.67444)">
         <g
-           id="g3133-5"
-           transform="translate(-32.122885,181.98397)">
+           transform="translate(-37.26762,359.19259)"
+           id="g3100-2">
           <path
-             id="path3123-6"
+             style="fill:none"
+             inkscape:connector-curvature="0"
+             d="M 0,0 48,0 48,48 0,48 Z"
+             id="path3090-3" />
+          <path
+             inkscape:connector-curvature="0"
+             d="m 40,36 c 2.21,0 3.98,-1.79 3.98,-4 L 44,12 C 44,9.79 42.21,8 40,8 L 8,8 C 5.79,8 4,9.79 4,12 l 0,20 c 0,2.21 1.79,4 4,4 l -8,0 0,4 48,0 0,-4 -8,0 z M 8,12 40,12 40,32 8,32 8,12 Z"
+             id="path3092-1" />
+        </g>
+        <g
+           transform="matrix(0.45833329,0,0,0.45833329,-24.26762,369.90688)"
+           id="g3133">
+          <path
+             inkscape:connector-curvature="0"
              d="M 6,34.5 6,42 13.5,42 35.63,19.87 28.13,12.37 6,34.5 Z M 41.41,14.09 c 0.78,-0.78 0.78,-2.05 0,-2.83 L 36.74,6.59 c -0.78,-0.78 -2.05,-0.78 -2.83,0 l -3.66,3.66 7.5,7.5 3.66,-3.66 z"
-             inkscape:connector-curvature="0" />
+             id="path3123" />
           <path
-             id="path3125-0"
-             d="M 0,0 48,0 48,48 0,48 Z"
+             style="fill:none"
              inkscape:connector-curvature="0"
-             style="fill:none" />
+             d="M 0,0 48,0 48,48 0,48 Z"
+             id="path3125" />
         </g>
       </g>
-      <rect
-         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.99999964;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect3615-7-3-8"
-         width="620.73309"
-         height="69.121437"
-         x="-47.343861"
-         y="180.46498"
-         ry="5.92168" />
-    </g>
-    <g
-       id="g4642"
-       transform="translate(39.420855,1.1441444e-5)">
-      <g
-         transform="translate(0,-0.9104862)"
-         id="g4584">
-        <g
-           id="g3013"
-           transform="translate(-32.122885,110.18997)">
-          <path
-             id="path3003"
-             d="M 0,0 48,0 48,48 0,48 Z"
-             inkscape:connector-curvature="0"
-             style="fill:none" />
-          <path
-             id="path3005"
-             d="M 38,6 29.63,6 C 28.81,3.68 26.61,2 24,2 21.39,2 19.19,3.68 18.37,6 L 10,6 C 7.79,6 6,7.79 6,10 l 0,28 c 0,2.21 1.79,4 4,4 l 28,0 c 2.21,0 4,-1.79 4,-4 L 42,10 C 42,7.79 40.21,6 38,6 Z M 24,6 c 1.1,0 2,0.89 2,2 0,1.11 -0.9,2 -2,2 -1.1,0 -2,-0.89 -2,-2 0,-1.11 0.9,-2 2,-2 z m 4,28 -14,0 0,-4 14,0 0,4 z m 6,-8 -20,0 0,-4 20,0 0,4 z m 0,-8 -20,0 0,-4 20,0 0,4 z"
-             inkscape:connector-curvature="0" />
-        </g>
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.70573616px;line-height:125%;font-family:'Standard Symbols L';-inkscape-font-specification:'Standard Symbols L';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.98999999;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           x="25.976576"
-           y="141.55997"
-           id="text3405-27-4"
-           sodipodi:linespacing="125%"><tspan
-             sodipodi:role="line"
-             x="25.976576"
-             y="141.55997"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Purisa;-inkscape-font-specification:'Purisa, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"
-             id="tspan3613">Uma Atividade está sendo proposta à você.</tspan></text>
-      </g>
-      <rect
-         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.99999964;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect3615-7-3-49"
-         width="620.73309"
-         height="69.121437"
-         x="-47.343861"
-         y="98.718765"
-         ry="5.92168" />
-    </g>
-    <g
-       id="g4661"
-       transform="translate(39.420855,-81.74622)">
-      <g
-         transform="translate(0,6.3139407)"
-         id="g4599">
-        <g
-           id="g2997"
-           transform="translate(-32.122885,266.45799)">
-          <path
-             id="path2987"
-             d="m 38,16 -28,0 c -3.31,0 -6,2.69 -6,6 l 0,12 8,0 0,8 24,0 0,-8 8,0 0,-12 c 0,-3.31 -2.69,-6 -6,-6 z m -6,22 -16,0 0,-10 16,0 0,10 z m 6,-14 c -1.11,0 -2,-0.89 -2,-2 0,-1.11 0.89,-2 2,-2 1.11,0 2,0.89 2,2 0,1.11 -0.89,2 -2,2 z M 36,6 12,6 l 0,8 24,0 0,-8 z"
-             inkscape:connector-curvature="0" />
-          <path
-             id="path2989"
-             d="M 0,0 48,0 48,48 0,48 Z"
-             inkscape:connector-curvature="0"
-             style="fill:none" />
-        </g>
-        <text
-           sodipodi:linespacing="125%"
-           id="text3623-2"
-           y="285.46799"
-           x="26.571575"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.70573616px;line-height:125%;font-family:'Standard Symbols L';-inkscape-font-specification:'Standard Symbols L';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.98999999;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           xml:space="preserve"><tspan
-             id="tspan3627-3"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Purisa;-inkscape-font-specification:'Purisa, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"
-             y="285.46799"
-             x="26.571575"
-             sodipodi:role="line">Se você estiver lendo o livro no formato digital,</tspan><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Purisa;-inkscape-font-specification:'Purisa, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"
-             y="307.34299"
-             x="26.571575"
-             sodipodi:role="line"
-             id="tspan4529">você poderá Imprimir a página contendo a atividade.</tspan></text>
-      </g>
-      <rect
-         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.99999964;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect3615-7-3-4"
-         width="620.73309"
-         height="69.121437"
-         x="-47.343861"
-         y="262.21121"
-         ry="5.92168" />
-    </g>
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot3436"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28px;line-height:125%;font-family:Purisa;-inkscape-font-specification:Purisa;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         transform="translate(-87.865064,-252.46979)"><flowRegion
+           id="flowRegion3438"><rect
+             id="rect3440"
+             width="542.83984"
+             height="102.14111"
+             x="117.06061"
+             y="384.15448"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Purisa;-inkscape-font-specification:Purisa" /></flowRegion><flowPara
+           id="flowPara3442"
+           style="font-size:16.25px"><flowSpan
+             style="font-size:17.5px;text-align:start;text-anchor:start"
+             id="flowSpan3444">Uma atividade está sendo proposta para você. </flowSpan></flowPara><flowPara
+           style="font-size:16.25px"
+           id="flowPara3448"><flowSpan
+   style="font-size:17.5px;text-align:start;text-anchor:start"
+   id="flowSpan3450">Você pode baixá-la através desse link e </flowSpan>resolvê-la no computador.</flowPara></flowRoot>    </g>
   </g>
 </svg>
