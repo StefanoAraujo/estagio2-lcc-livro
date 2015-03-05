@@ -83,14 +83,14 @@ desenvolver na escola e que poderão estar em seu plano.
 [options="header"]
 |====
 ^| Lista de atividades que você poderia desempenhar no seu estágio
-| *A1.* 
+| A1. 
 
 {nbsp}
-| *A2.*
+| A2.
 
 {nbsp}
 
-| *A3.*
+| A3.
 
 {nbsp}
 

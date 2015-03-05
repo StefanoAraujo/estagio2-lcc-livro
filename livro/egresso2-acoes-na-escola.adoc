@@ -14,6 +14,16 @@ exemplos de atividades que você acha que um estagiário de LC pode
 desenvolver na escola -- considerando os dois perfis de estágio
 discutidos anteriormente.
 
+++++
+<simpara>
+<ulink url="{atividade}">
+<inlinemediaobject>
+<imageobject>
+<imagedata fileref="images/pagina-com-atividade.svg"/>
+</imageobject>
+</inlinemediaobject></ulink></simpara>
+++++
+
 [options="header"]
 |====
 ^| Atividades ao atuar como professor(a) de informática
@@ -320,14 +330,14 @@ contendo ao menos 3 atividades
 [options="header"]
 |====
 ^| Lista de atividades que você poderia desempenhar no seu estágio
-| *A1.* 
+| A1. 
 
 {nbsp}
-| *A2.*
+| A2.
 
 {nbsp}
 
-| *A3.*
+| A3.
 
 {nbsp}
 
