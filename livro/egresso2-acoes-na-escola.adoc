@@ -27,7 +27,9 @@ discutidos anteriormente.
 [options="header"]
 |====
 ^| Atividades ao atuar como professor(a) de informática
-| A1. Dar aulas sobre criação de slides com Impress.
+| A1. _Dar aulas sobre criação de slides com Impress_.
+
+{nbsp}
 | A2.
 
 {nbsp}
@@ -48,7 +50,9 @@ discutidos anteriormente.
 [options="header"]
 |====
 ^| Atividades ao atuar como agente promotor(a) do uso da tecnologia na educação
-| A1. Auxiliar o professor de Geografia em uma aula utilizando o Google Maps. 
+| A1. _Auxiliar o professor de Geografia em uma aula utilizando o Google Maps_. 
+
+{nbsp}
 | A2.
 
 {nbsp}
@@ -125,6 +129,7 @@ material do MEC:
 
 * http://portaldoprofessor.mec.gov.br/storage/materiais/0000011622.pdf
 
+image::{img}/image2.png[scaledwidth="40%"]
 
 ==== Planejamento e execução de um projeto pedagógico que explore recursos de TIC em uma única disciplina 
 
@@ -143,6 +148,8 @@ ensino. Há inúmeros exemplos de aulas e coleções de aulas para
 diferentes disciplinas no portal do professor:
 
 * http://portaldoprofessor.mec.gov.br/buscarAulas.html
+
+image::{img}/image3.png[scaledwidth="40%"]
 
 ==== Organização e administração de laboratórios de informática para fins educacionais
 
@@ -183,7 +190,7 @@ seja na aula em si, ou em aulas prévias para possibilitar a inclusão
 digital de alunos sem contato prévio com computadores ou com o uso de
 certos softwares.
 
-
+image::{img}/image4.png[scaledwidth="35%"]
 
 ==== Desenvolvimento de materiais instrucionais utilizando recursos tecnológicos disponíveis junto ao corpo docente da escola
 
@@ -212,7 +219,7 @@ Existe ainda o Visual Class (http://www.classinformatica.com.br/ ) ,
 que permite a criação de aulas e apresentações com recursos
 multimídia. 
 
-
+image::{img}/recursos-tecnologicos.svg[scaledwidth="70%"]
 
 ==== Levantamento, catalogação e avaliação de objetos de aprendizagem que podem auxiliar os professores da escola
 
@@ -231,6 +238,7 @@ Após cursar a disciplina do curso sobre objetos de aprendizagem, você
 poderá no futuro fazer uma avaliação mais detalhada e formal de alguns
 desses OAs.
 
+image::{img}/image9.png[scaledwidth="40%"]
 
 ==== Ensino de informática básica
 
@@ -244,6 +252,7 @@ dominam o uso desses dispositivos, mas que não compreendem bem o uso
 de um sistema operacional (como o Windows 8, ou o Linux Educacional) e
 seus aplicativos básicos.
 
+image::{img}/image10.png[scaledwidth="35%"]
 
 ==== Ensino de lógica básica
 
@@ -263,6 +272,8 @@ cobrança de lógica em concursos públicos, inclusive de nível
 fundamental e médio, sendo portanto interessante abordar ainda na
 escola algumas técnicas
 
+image::{img}/image11.png[scaledwidth="30%"]
+
 ==== Ensino introdutório de programação
 
 Uma forma de desenvolver o raciocínio lógico dos estudantes do ensino
@@ -277,6 +288,14 @@ ferramenta GameMaker (https://www.yoyogames.com/studio), que é bem
 intuitiva e pode ser facilmente explorada por alunos do ensino
 fundamental II (6o. ao 9o. ano) ou por alunos do ensino médio.
 
+image::{img}/introducao-programacao.svg[scaledwidth="60%"]
+
+++++
+<remark>Esse é um típico exemplo em que eu criaria um seção
+no wiki para o aluno aprofundar os conhecimentos com
+exemplos de utilização do scratch e GameMaker.</remark>
+++++
+
 ==== Ensino de robótica
 
 Considerando que algumas escolas, inclusive da rede pública, possuem
@@ -289,6 +308,7 @@ robótica na escola utilizando esses kits, e fazendo com que o
 interesse dos alunos pela computação possa aumentar, uma vez que eles
 poderão ver seus programas traduzidos em movimentos de robôs. 
 
+image::{img}/image14.png[scaledwidth="30%"]
 
 ==== Ensino do pensamento computacional e algorítmico
 
@@ -303,6 +323,8 @@ para resolver um problema e estratégias para estruturar esses passos.
 ////
 Faltou informar um exemplo prático de como seria isso para eles.
 ////
+
+image::{img}/pensamento_computacional.svg[scaledwidth="60%"]
 
 ==== Atividade: Entendendo seu papel como estagiário exemplificando possíveis atividades na escola
 
