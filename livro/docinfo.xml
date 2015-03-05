@@ -2,6 +2,18 @@
 
 <revhistory>
 
+
+<revision>
+  <revnumber>v0.0.6</revnumber>
+  <date>05/03/2015</date>
+  <authorinitials> Ayla e Eduardo </authorinitials>
+  <revremark>
+<ulink url="{gitrepo}/issues/6">Seção 1.2: Inclusão de imagens;</ulink>
+<ulink url="{gitrepo}/issues/7">Atualização do prefácio;</ulink>
+  </revremark>
+</revision>
+
+
 <revision>
   <revnumber>v0.0.5</revnumber>
   <date>04/03/2015</date>
