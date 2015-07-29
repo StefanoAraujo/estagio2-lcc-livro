@@ -2,7 +2,7 @@
 
 .Questões a serem respondidas
 ****
-. Qual é o perfil do egresso do curso de Licenciatura em Computação? 
+. Qual é o perfil do egresso do curso de Licenciatura em Computação?
 . Quais as competências esperadas para o egresso deste curso?
 . Quais as competências que serão desenvolvidas durante o Estágio 2?
 ****
@@ -17,7 +17,7 @@ Computação (LC) da UFPB. Neste documento podem ser observados os
 objetivos do curso, o perfil previsto para egresso (quem concluiu o
 curso) e também suas competências esperadas. Você pode baixar este
 documento a partir da página do curso ou através do seguinte link:
-http://goo.gl/VJ0ZOm 
+http://goo.gl/7CeShb
 
 De maneira geral, observa-se que o _curso de Licenciatura em
 Computação visa formar educadores para atuar nas escolas (de nível
@@ -28,13 +28,13 @@ um espaço para a interdisciplinaridade, a comunicação e a articulação,
 entre as diversas disciplinas e áreas do conhecimento do currículo
 escolar"_.
 
-image::{img}/competencias-egresso.svg[]
+image::images/novas/competenciasEgresso.png[scaledwidth="80%", align="center"]
 
 Espera-se que os profissionais egressos do curso de LC _sejam capazes
 de compreender e aplicar ferramentas tecnológicas disponíveis no
 mercado, principalmente na área de educação, e que dominem técnicas
 pedagógicas e os processos de aprendizagem em informática no ensino
-fundamental, médio, profissionalizante e corporativo_. 
+fundamental, médio, profissionalizante e corporativo_.
 
 Ainda conforme o PPC do curso, é importante observar as competências
 esperadas para um profissional licenciado em Computação. De maneira
@@ -53,16 +53,16 @@ competências para:
 
 
 Na disciplina de Estágio 2 teremos como objetivo promover ações que
-habilitem você a se aprimorar nessas competências em *negrito*, já que tais competências 
-podem ser trabalhadas através do desenvolvimento de atividades do estudante do curso de LC 
+habilitem você a se aprimorar nessas competências em *negrito*, já que tais competências
+podem ser trabalhadas através do desenvolvimento de atividades do estudante do curso de LC
 na escola. Observe que as demais competências poderão ser aprimoradas nas outras disciplinas
 de estágio que o curso oferece.
- 
+
 Você deve ter observado que em algumas escolas nem sempre são
 explorados nas disciplinas alguns recursos existentes das Tecnologias
 da Informação e Comunicação (TICs) e que poderiam facilitar o processo
 de ensino-aprendizagem, ou pelo menos atrair mais os alunos para a
-educação. 
+educação.
 
 Além disso, em algumas escolas existem laboratórios de informática,
 mas nem sempre estes são utilizados. Em alguns casos isso se dá pela
@@ -75,13 +75,13 @@ informática.
 Você já se imaginou sendo um agente transformador em uma escola e
 desenvolvendo ações como essas?
 
-.Possíveis funções que o egresso em LC pode desempenhar na Escola.
-image::{img}/funcoes-do-egresso-na-escola.png[scaledwidth="50%"]
-
 Na disciplina de Estágio 2 estaremos focados em ações que egressos de
 LC poderão desempenhar na escola, e principalmente no ensino básico
 (pré-escola até o terceiro ano). Vê-se que o egresso de LC tem dois
 grandes caminhos (existem outros) que pode seguir:
+
+//.Possíveis funções que o egresso em LC pode desempenhar na Escola.
+image::images/egresso/funcoes-do-egresso-na-escola.png[scaledwidth="70%", align="center"]
 
 Agente promotor da interdisciplinaridade:: Explorando recursos de
 Tecnologia da Informação e Comunicação (TIC) no processo de
@@ -91,7 +91,7 @@ Ensinando informática:: Uso de aplicativos, dispositivos tecnológicos
 e da Internet, ensino de lógica, de programação básica, de
 desenvolvimento de jogos simples, ensino de computação como ciência
 abordando conceitos básicos como algoritmos de ordenação e
-representação da informação, etc. 
+representação da informação, etc.
 
 Considerando sua experiência na disciplina de Estágio 1, onde você
 pôde observar e analisar a realidade de alguma escola, reflita e
@@ -102,7 +102,7 @@ realize a atividade que é proposta a seguir.
 
 ++++
 <simpara>
-<ulink url="{atividade}">
+<ulink url="atividade">
 <inlinemediaobject>
 <imageobject>
 <imagedata fileref="images/pagina-com-atividade.svg"/>
@@ -110,7 +110,7 @@ realize a atividade que é proposta a seguir.
 </inlinemediaobject></ulink></simpara>
 ++++
 
-image::{img}/competencias-estagio2.svg[]
+image::images/novas/competenciasEgresso2.png[scaledwidth="80%", align="center"]
 
 Você está iniciando a disciplina Estágio 2 cuja proposta envolve a atuação do estagiário de forma mais ativa na escola.
 Será que você consegue reconhecer quais as competências que esta
@@ -120,30 +120,126 @@ Para cada uma das competências a seguir, registre *Sim* se você
 considera que a competência faz parte da proposta desta disciplina,
 registre *Não* caso contrário.
 
+[cols="8,2", valign="middle"]
+|===
+|Competência |  Pertence à proposta do Estágio 2
+
+| Entender os aspectos econômicos e financeiros das organizações e propor soluções de hardware e software para otimizar seus processos;
+| _Não_
+
+| Empregar metodologias que visem garantir critérios de qualidade ao longo de todas as etapas de desenvolvimento de uma solução computacional;
+|
+
+| Desenvolver sistemas integrados e sistemas embarcados, incluindo o desenvolvimento de software para esses sistemas;
+|
+
+| Especificar e avaliar softwares e equipamentos para aplicações educacionais e de Educação à Distancia;
+|
+
+| Projetar e desenvolver softwares e hardware educacionais e de educação à distância em equipes interdisciplinares;
+|
+
+| Atuar junto ao corpo docente das Escolas da Educação Básica  e suas modalidades no uso efetivo e adequado das tecnologias da educação;
+|
+
+| Produzir material didático;
+|
+
+| Administrar laboratórios de informática para fins educacionais;
+|
+
+| Atuar como agentes integradores promovendo a acessibilidade digital;
+|
+
+| Atuar como docente com a visão de avaliação crítica e reflexiva;
+|
+
+| Propor, coordenar e avaliar, projetos de ensino-aprendizagem assistidos por computador que propiciem a pesquisa.
+|
+
+|===
+
+////
+// Nesse formato a geração da tabela ficou errada.
 
 [cols="8,2^", options="header",valign="middle"]
 |====
-^| Competência |  Pertence à proposta do Estágio 2 
+^| Competência |  Pertence à proposta do Estágio 2
 | Entender os aspectos econômicos e financeiros das organizações e propor soluções de hardware e software para otimizar seus processos; | _Não_
-| Empregar metodologias que visem garantir critérios de qualidade ao longo de todas as etapas de desenvolvimento de uma solução computacional; | 
+| Empregar metodologias que visem garantir critérios de qualidade ao longo de todas as etapas de desenvolvimento de uma solução computacional; |
 | Desenvolver sistemas integrados e sistemas embarcados, incluindo o desenvolvimento de software para esses sistemas; |
-| Especificar e avaliar softwares e equipamentos para aplicações educacionais e de Educação à Distancia; | 
-| Projetar e desenvolver softwares e hardware educacionais e de educação à distância em equipes interdisciplinares; | 
-| Atuar junto ao corpo docente das Escolas da Educação Básica  e suas modalidades no uso efetivo e adequado das tecnologias da educação; | 
-| Produzir material didático; | 
-| Administrar laboratórios de informática para fins educacionais; | 
-| Atuar como agentes integradores promovendo a acessibilidade digital; | 
-| Atuar como docente com a visão de avaliação crítica e reflexiva; | 
-| Propor, coordenar e avaliar, projetos de ensino-aprendizagem assistidos por computador que propiciem a pesquisa. |  
+| Especificar e avaliar softwares e equipamentos para aplicações educacionais e de Educação à Distancia; |
+| Projetar e desenvolver softwares e hardware educacionais e de educação à distância em equipes interdisciplinares; |
+| Atuar junto ao corpo docente das Escolas da Educação Básica  e suas modalidades no uso efetivo e adequado das tecnologias da educação; |
+| Produzir material didático; |
+| Administrar laboratórios de informática para fins educacionais; |
+| Atuar como agentes integradores promovendo a acessibilidade digital; |
+| Atuar como docente com a visão de avaliação crítica e reflexiva; |
+| Propor, coordenar e avaliar, projetos de ensino-aprendizagem assistidos por computador que propiciem a pesquisa. |
 |====
 
-TIP: Na próxima página você irá encontrará as respostas
+////
+
+
+TIP: Na próxima página você irá encontrar as respostas
 comentadas, mas nós recomendamos que você tente realizar as atividades
 antes de consultar as respostas.
 
 <<<
 
 *Resposta comentada*:
+
+[cols="4,2,4", valign="middle"]
+|====
+| Competência |  Estágio 2 | Comentário
+
+| Entender os aspectos econômicos e financeiros das organizações e propor soluções de hardware e software para otimizar seus processos;
+| Não
+| Durante o estágio na Escola o aluno estará envolvido em propostas educacionais e não em aspectos econômicos e financeiros das organizações, algo que é mais trabalhado em cursos como Sistemas de Informação.
+
+| Empregar metodologias que visem garantir critérios de qualidade ao longo de todas as etapas de desenvolvimento de uma solução computacional;
+| Não
+| Durante o estágio na escola você estará realizando uma atuação mais focada no ensino e não no desenvolvimento de software, onde devem ser considerados os aspectos de qualidade e o uso de metodologias que garantam tal qualidade.
+
+| Desenvolver sistemas integrados e sistemas embarcados, incluindo o desenvolvimento de software para esses sistemas;
+| Não
+| Durante o seu estágio na escola você não estará desenvolvendo nenhum hardware ou software embarcado.
+
+| Especificar e avaliar softwares e equipamentos para aplicações educacionais e de Educação à Distancia;
+| Não
+| Para assegurar a possível atuação do licenciado na escola no futuro, o Estágio 2 deverá ser realizado presencialmente na escola. As atividades de educação à distância poderão ser realizadas em outras disciplinas. O Estágio 2 se dedica exclusivamente a atividades presenciais nas escolas.
+
+| Projetar e desenvolver softwares e hardware educacionais e de educação à distância em equipes interdisciplinares;
+| Não
+| A proposta do Estágio 2 é a utilização de softwares+hardware na escola com fins educacionais. O desenvolvimento de sistemas não faz parte da proposta do estágio. Talvez você desenvolva algum pequeno software com fins educativos (presenciais), mas apenas o seu desenvolvimento sem a utilização na escola não servirá como proposta para o seu estágio.
+
+| Atuar junto ao corpo docente das Escolas da Educação Básica  e suas modalidades no uso efetivo e adequado das tecnologias da educação;
+| Sim
+| Esta é a principal proposta do Estágio 2.
+
+| Produzir material didático;
+| Sim
+| Vale ressaltar que a produção do material deverá obrigatoriamente ser associada a sua utilização. Somente a produção do material sem a utilização na escola não poderá ser considerada uma proposta válida de atividade para Estágio 2.
+
+| Administrar laboratórios de informática para fins educacionais;
+| Sim
+| Vale ressaltar que administrar o laboratório com fins educacionais não significa ser suporte técnico do laboratório, mas sim garantir que o laboratório esteja preparado com softwares que possam ser explorados para fins educacionais e auxiliar os professores na utilização desses softwares durante suas aulas. Atividades como conserto de máquinas devem ser delegadas à equipe de suporte técnico da escola e não devem ser o foco do seu estágio.
+
+| Atuar como agentes integradores promovendo a acessibilidade digital;
+| Sim
+| Promover a acessibilidade digital na escola faz parte da proposta do Estágio 2.
+
+| Atuar como docente com a visão de avaliação crítica e reflexiva;
+| Sim
+| A atuação como docente é uma das principais competências trabalhadas no Estágio 2.
+
+| Propor, coordenar e avaliar, projetos de ensino-aprendizagem assistidos por computador que propiciem a pesquisa.
+| Sim
+| Na disciplina de Estágio 1 o aluno é convocado para observar a escola. No Estágio 2 ele deverá realizar uma intervenção. Portanto, a atividade de propor, coordenar e avaliar um projeto faz parte da proposta do Estágio 2.
+
+|====
+
+////
 
 [cols="8,2^,12", options="header",valign="middle"]
 |====
@@ -158,8 +254,10 @@ antes de consultar as respostas.
 | Administrar laboratórios de informática para fins educacionais; | Sim | Vale ressaltar que administrar o laboratório com fins educacionais não significa ser suporte técnico do laboratório, mas sim garantir que o laboratório esteja preparado com softwares que possam ser explorados para fins educacionais e auxiliar os professores na utilização desses softwares durante suas aulas. Atividades como conserto de máquinas devem ser delegadas à equipe de suporte técnico da escola e não devem ser o foco do seu estágio.
 | Atuar como agentes integradores promovendo a acessibilidade digital; | Sim | Promover a acessibilidade digital na escola faz parte da proposta do Estágio 2.
 | Atuar como docente com a visão de avaliação crítica e reflexiva; | Sim | A atuação como docente é uma das principais competências trabalhadas no Estágio 2.
-| Propor, coordenar e avaliar, projetos de ensino-aprendizagem assistidos por computador que propiciem a pesquisa. | Sim | Na disciplina de Estágio 1 o aluno é convocado para observar a escola. No Estágio 2 ele deverá realizar uma intervenção. Portanto, a atividade de propor, coordenar e avaliar um projeto faz parte da proposta do Estágio 2. 
+| Propor, coordenar e avaliar, projetos de ensino-aprendizagem assistidos por computador que propiciem a pesquisa. | Sim | Na disciplina de Estágio 1 o aluno é convocado para observar a escola. No Estágio 2 ele deverá realizar uma intervenção. Portanto, a atividade de propor, coordenar e avaliar um projeto faz parte da proposta do Estágio 2.
 |====
+
+////
 
 [TIP]
 .Feedback
@@ -174,4 +272,3 @@ As competências para o desenvolvimento de software, principalmente software com
 O Estágio 2 deverá ser realizado, obrigatoriamente, em uma escola. Esta escola não precisa ser a mesma do Estágio 1 (embora esta seja uma recomendação).
 
 ====
-

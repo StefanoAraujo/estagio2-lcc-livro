@@ -1,0 +1,23 @@
+==  Papeis do Estagiário de Licenciatura em Computação na Escola
+
+:img: images/egresso
+
+:atividade: https://raw.githubusercontent.com/edusantana/estagio2-lcc-livro/{edition}/atividades/cap2-atividades.docx
+
+.Objetivos do capítulo
+____
+
+Ao final deste capítulo você será capaz de:
+
+1. *Entender* o seu papel como estagiário na escola, *exemplificando*
+ações que pode desenvolver durante seu estágio.
+
+////
+3. *Analisar* a importância do profissional egresso em LCC na escola e
+seus desafios *concluindo* esta análise com o levantamento de um
+esboço de um plano topicalizado para o seu estágio.
+////
+
+____
+
+include::egresso2-acoes-na-escola.adoc[]

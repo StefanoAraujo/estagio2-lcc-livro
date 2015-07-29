@@ -1,13 +1,10 @@
-
-<<<
-
 ===  Exemplos de atividades do estagiário em LC nas Escolas
 
 Observando as competências esperadas para um profissional licenciado
 em Computação, diversas atividades podem ser desenvolvidas
 ao longo de um estágio no contexto escolar. Algumas delas serão
 sugeridas mais adiante e poderão variar bastante, dependendo do nível de
-ensino em que você irá trabalhar. 
+ensino em que você irá trabalhar.
 
 Antes de observar algumas atividades, tente listar, no espaço seguinte,
 exemplos de atividades que você acha que um estagiário de LC pode
@@ -42,7 +39,7 @@ discutidos anteriormente.
 
 {nbsp}
 
-| A5. 
+| A5.
 
 {nbsp}
 |====
@@ -50,7 +47,7 @@ discutidos anteriormente.
 [options="header"]
 |====
 ^| Atividades ao atuar como agente promotor(a) do uso da tecnologia na educação
-| A1. _Auxiliar o professor de Geografia em uma aula utilizando o Google Maps_. 
+| A1. _Auxiliar o professor de Geografia em uma aula utilizando o Google Maps_.
 
 {nbsp}
 | A2.
@@ -62,7 +59,7 @@ discutidos anteriormente.
 | A4.
 
 {nbsp}
-| A5. 
+| A5.
 
 {nbsp}
 |====
@@ -87,7 +84,7 @@ atividades que serão apresentadas nesta seção.
 
 Embora as próximas seções contenham sugestões de atividades,
 muitas outras atividades podem ser desenvolvidas, _desde que o foco
-seja a formação do profissional de LC para atuar no ensino básico_, 
+seja a formação do profissional de LC para atuar no ensino básico_,
 que é o objetivo principal do Estágio 2 em LC. Ao desenvolver tais
 atividades, você estará recebendo a formação técnica, profissional,
 científica, humana e social esperada para um licenciado em Computação.
@@ -129,9 +126,9 @@ material do MEC:
 
 * http://portaldoprofessor.mec.gov.br/storage/materiais/0000011622.pdf
 
-image::{img}/image2.png[scaledwidth="40%"]
+image::{img}/image2.png[scaledwidth="40%", align="center"]
 
-==== Planejamento e execução de um projeto pedagógico que explore recursos de TIC em uma única disciplina 
+==== Planejamento e execução de um projeto pedagógico que explore recursos de TIC em uma única disciplina
 
 O foco do seu estágio em LC pode ser o desenvolvimento de um projeto
 pedagógico envolvendo uma única disciplina. A ideia principal é
@@ -149,7 +146,7 @@ diferentes disciplinas no portal do professor:
 
 * http://portaldoprofessor.mec.gov.br/buscarAulas.html
 
-image::{img}/image3.png[scaledwidth="40%"]
+image::{img}/image3.png[scaledwidth="40%", align="center"]
 
 ==== Organização e administração de laboratórios de informática para fins educacionais
 
@@ -160,7 +157,7 @@ subutilizados. Em alguns casos, isso se deve à falta de um
 profissional devidamente capacitado para organizar e administrar esses
 laboratórios. Espera-se que o licenciado em Computação seja esse
 profissional e que permita o uso apropriado da informática para apoiar
-a educação. 
+a educação.
 
 Organizar e administrar um laboratório de informática para fins
 educacionais compreende observar máquinas problemáticas e
@@ -190,7 +187,7 @@ seja na aula em si, ou em aulas prévias para possibilitar a inclusão
 digital de alunos sem contato prévio com computadores ou com o uso de
 certos softwares.
 
-image::{img}/image4.png[scaledwidth="35%"]
+image::{img}/image4.png[scaledwidth="35%", align="center"]
 
 ==== Desenvolvimento de materiais instrucionais utilizando recursos tecnológicos disponíveis junto ao corpo docente da escola
 
@@ -217,9 +214,9 @@ Potatoes (http://hotpot.uvic.ca/), que permite a criação de diferentes
 tipos de exercícios, como cruzadinhas e questões de múltipla escolha.
 Existe ainda o Visual Class (http://www.classinformatica.com.br/ ) ,
 que permite a criação de aulas e apresentações com recursos
-multimídia. 
+multimídia.
 
-image::{img}/recursos-tecnologicos.svg[scaledwidth="70%"]
+image::{img}/recursos-tecnologicos.svg[scaledwidth="70%", align="center"]
 
 ==== Levantamento, catalogação e avaliação de objetos de aprendizagem que podem auxiliar os professores da escola
 
@@ -238,7 +235,7 @@ Após cursar a disciplina do curso sobre objetos de aprendizagem, você
 poderá no futuro fazer uma avaliação mais detalhada e formal de alguns
 desses OAs.
 
-image::{img}/image9.png[scaledwidth="40%"]
+image::{img}/image9.png[scaledwidth="40%", align="center"]
 
 ==== Ensino de informática básica
 
@@ -252,7 +249,7 @@ dominam o uso desses dispositivos, mas que não compreendem bem o uso
 de um sistema operacional (como o Windows 8, ou o Linux Educacional) e
 seus aplicativos básicos.
 
-image::{img}/image10.png[scaledwidth="35%"]
+image::{img}/image10.png[scaledwidth="35%", align="center"]
 
 ==== Ensino de lógica básica
 
@@ -272,7 +269,7 @@ cobrança de lógica em concursos públicos, inclusive de nível
 fundamental e médio, sendo portanto interessante abordar ainda na
 escola algumas técnicas
 
-image::{img}/image11.png[scaledwidth="30%"]
+image::{img}/image11.png[scaledwidth="30%", align="center"]
 
 ==== Ensino introdutório de programação
 
@@ -288,7 +285,7 @@ ferramenta GameMaker (https://www.yoyogames.com/studio), que é bem
 intuitiva e pode ser facilmente explorada por alunos do ensino
 fundamental II (6o. ao 9o. ano) ou por alunos do ensino médio.
 
-image::{img}/introducao-programacao.svg[scaledwidth="60%"]
+image::{img}/introducao-programacao.svg[scaledwidth="60%", align="center"]
 
 ++++
 <remark>Esse é um típico exemplo em que eu criaria um seção
@@ -306,9 +303,9 @@ algum kit disponível na escola, você será capaz de aprender facilmente
 a trabalhar com ele. Após isso, poderá dar aulas de introdução a
 robótica na escola utilizando esses kits, e fazendo com que o
 interesse dos alunos pela computação possa aumentar, uma vez que eles
-poderão ver seus programas traduzidos em movimentos de robôs. 
+poderão ver seus programas traduzidos em movimentos de robôs.
 
-image::{img}/image14.png[scaledwidth="30%"]
+image::{img}/image14.png[scaledwidth="30%", align="center"]
 
 ==== Ensino do pensamento computacional e algorítmico
 
@@ -318,13 +315,13 @@ têm muito a contribuir para ajudar os estudantes na organização do seu
 pensamento para resolver problemas. Sendo assim, é interessante tentar
 explorar durante o estágio aulas de introdução ao pensamento
 computacional e algorítmico, dando aos estudantes a noção de passos
-para resolver um problema e estratégias para estruturar esses passos. 
+para resolver um problema e estratégias para estruturar esses passos.
 
 ////
 Faltou informar um exemplo prático de como seria isso para eles.
 ////
 
-image::{img}/pensamento_computacional.svg[scaledwidth="60%"]
+image::{img}/pensamento_computacional.svg[scaledwidth="60%", align="center"]
 
 ==== Atividade: Entendendo seu papel como estagiário exemplificando possíveis atividades na escola
 
@@ -352,7 +349,7 @@ contendo ao menos 3 atividades
 [options="header"]
 |====
 ^| Lista de atividades que você poderia desempenhar no seu estágio
-| A1. 
+| A1.
 
 {nbsp}
 | A2.
@@ -367,19 +364,19 @@ contendo ao menos 3 atividades
 
 {nbsp}
 
-| A5. 
+| A5.
 
 {nbsp}
 
-| A6. 
+| A6.
 
 {nbsp}
 
-| A7. 
+| A7.
 
 {nbsp}
 
-| A8. 
+| A8.
 
 {nbsp}
 |====
@@ -444,7 +441,7 @@ E aí? Por qual dos dois caminhos você optou?
 
 Será que suas atividades estão definidas de forma concreta o
 suficiente? Será que essa atividades que você definiu são realmente
-atividades esperadas para um licenciado em computação? 
+atividades esperadas para um licenciado em computação?
 
 ====
 ////

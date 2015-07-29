@@ -1,20 +1,20 @@
-== Capítulo 1 - Estagiando na Escola
+==  O Egresso de Licenciatura em Computação
+
+:img: images/egresso
+
+:atividade: https://raw.githubusercontent.com/edusantana/estagio2-lcc-livro/{edition}/atividades/cap1-atividades.docx
 
 .Objetivos do capítulo
+____
 
 Ao final deste capítulo você será capaz de:
 
 1. *Lembrar* do perfil de egresso do curso de Licenciatura em Ciência
 da Computação (LC) e das competências esperadas para este
 profissional, *reconhecendo* quais competências poderão ser
-desenvolvidas no ambiente escolar durante o estágio.
+desenvolvidas no ambiente escolar durante o estágio 2.
 
-////
-2. *Entender* o seu papel como estagiário na escola, *exemplificando*
-ações que pode desenvolver durante seu estágio de forma mais
-detalhada.
 
-3. *Analisar* a importância do profissional egresso em LCC na escola e
-seus desafios *concluindo* esta análise com o levantamento de um
-esboço de um plano topicalizado para o seu estágio.
-////
+____
+
+include::egresso1-competencias.adoc[]

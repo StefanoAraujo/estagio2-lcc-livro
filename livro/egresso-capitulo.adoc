@@ -1,4 +1,4 @@
-== Estagiando na Escola
+==  O Egresso de Licenciatura em Computação
 
 :img: images/egresso
 
@@ -28,4 +28,3 @@ ____
 include::egresso1-competencias.adoc[]
 
 include::egresso2-acoes-na-escola.adoc[]
-
