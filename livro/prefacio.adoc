@@ -40,7 +40,7 @@ Esta caixa é utilizada para chamar atenção sobre algo importante.
 ========
 Esta caixa é utilizada para alertar sobre algo que exige cautela.
 ========
-
+//TODO: Ver porque a imagem está sendo a mesma.
 
 [WARNING]
 ========
@@ -52,6 +52,8 @@ Esta caixa é utilizada para alertar sobre algo que merece cuidado.
 
 Cada capítulo do livro apresenta objetivos, o conteúdo e discussões para lhe ajudar a atingir os objetivos esperados e algumas atividades, que você pode realizar em arquivos a parte, conforme será explicado adiante.
 
+////
+//TODO: Ver se deve ser adicionada essa parte futuramente.
 ==== Realizando uma atividade no computador
 
 :atividade: https://raw.githubusercontent.com/edusantana/estagio2-lcc-livro/{edition}/atividades/cap1-atividades.docx
@@ -94,22 +96,8 @@ de atividades na pasta `atividades`.
 NOTE: Desta forma, você sempre poderá realizar as atividades propostas,
 seja no computador ou no papel.
 
-==== Resposta Comentada
+////
 
-Quando uma atividade é proposta, a próxima página irá conter uma
-*resposta comentada* seguida de um *feedback*.
-
-Não há mal em avançar direto para as respostas comentadas. Na
-realidade elas estão logo na próxima página, mas faça um esforço para só analisá-las depois de tentar
-produzir suas próprias respostas.
-
-//pois caso você tenha pouco tempo para os estudos poderá ter acesso rápido às respostas.
-
-//Ayla: Alterei
-
-De forma geral, ao realizar as atividades, você estará se
-envolvendo melhor com os assuntos estudados e isso facilitará a assimilação deles.
-Portanto, *a realização das atividades é altamente recomendada*.
 
 ==== Compreendendo os objetivos de aprendizagem
 
@@ -134,12 +122,26 @@ esperadas para este profissional_. Em seguida, virá o momento de você verifica
 se você está atingindo o objetivo proposto:  *_reconhecendo_* _quais competências
 poderão ser desenvolvidas no ambiente escolar durante o Estágio 2_.
 
-
+////
 TIP: Lembre-se que você poderá realizar no papel ou no
 computador esta atividade que tem o propósito de verificar se os objetivos de aprendizagem foram alcançados.
 Para isso, basta clicar nos ícones da atividade, como você fez
 anteriormente.
+////
 
+==== Resposta Comentada
+
+Quando uma atividade é proposta, a próxima página irá conter uma
+*resposta comentada* seguida de um *feedback*.
+
+Não há mal em avançar direto para as respostas comentadas, mas faça um esforço para só analisá-las depois de tentar
+produzir suas próprias respostas.
+
+De forma geral, ao realizar as atividades, você estará se
+envolvendo melhor com os assuntos estudados e isso facilitará a assimilação deles.
+Portanto, *a realização das atividades é altamente recomendada*.
+
+//TODO: INCLUIR UMA SEÇÃO SOBRE A ORGANIZAÇÃO DO LIVRO QUANDO ELE TIVER SIDO CONCUÍDO
 
 ////
 Sempre terminar o arquivo com uma nova linha.

@@ -43,7 +43,7 @@ competências para:
 
 *  Especificar os requisitos pedagógicos na interação humano-computador;
 * Especificar e *avaliar softwares e equipamentos para aplicações educacionais* e de Educação a Distancia;
-* Projetar e desenvolver softwares e hardware educacionais e de educação à distância em equipes interdisciplinares;
+* Projetar e desenvolver softwares e hardware educacionais e de educação a distância em equipes interdisciplinares;
 * *Atuar junto ao corpo docente das Escolas nos níveis da Educação Básica e Técnico e suas modalidades e demais organizações no uso efetivo e adequado das tecnologias da educação*;
 * *Produzir material didático*;
 * *Administrar laboratórios de informática para fins educacionais*;
@@ -83,7 +83,7 @@ grandes caminhos (existem outros) que pode seguir:
 //.Possíveis funções que o egresso em LC pode desempenhar na Escola.
 image::images/egresso/funcoes-do-egresso-na-escola.png[scaledwidth="70%", align="center"]
 
-Agente promotor da interdisciplinaridade:: Explorando recursos de
+Agente promotor do uso da tecnologia na educação:: Explorando recursos de
 Tecnologia da Informação e Comunicação (TIC) no processo de
 ensino-aprendizagem;
 
@@ -99,7 +99,7 @@ realize a atividade que é proposta a seguir.
 
 
 ==== Atividade: Reconhecendo as competências que serão desenvolvidas no Estágio 2
-
+////
 ++++
 <simpara>
 <ulink url="atividade">
@@ -111,6 +111,7 @@ realize a atividade que é proposta a seguir.
 ++++
 
 image::images/novas/competenciasEgresso2.png[scaledwidth="80%", align="center"]
+////
 
 Você está iniciando a disciplina Estágio 2 cuja proposta envolve a atuação do estagiário de forma mais ativa na escola.
 Será que você consegue reconhecer quais as competências que esta
@@ -130,13 +131,16 @@ registre *Não* caso contrário.
 | Empregar metodologias que visem garantir critérios de qualidade ao longo de todas as etapas de desenvolvimento de uma solução computacional;
 |
 
-| Desenvolver sistemas integrados e sistemas embarcados, incluindo o desenvolvimento de software para esses sistemas;
+| Desenvolver sistemas integrados e sistemas embarcados em geral;
 |
 
-| Especificar e avaliar softwares e equipamentos para aplicações educacionais e de Educação à Distancia;
+| Avaliar softwares e equipamentos para aplicações educacionais;
 |
 
-| Projetar e desenvolver softwares e hardware educacionais e de educação à distância em equipes interdisciplinares;
+| Especificar e avaliar softwares e equipamentos para aplicação na Educação a Distancia;
+|
+
+| Projetar e desenvolver software e hardware educacionais e de educação a distância em equipes interdisciplinares;
 |
 
 | Atuar junto ao corpo docente das Escolas da Educação Básica  e suas modalidades no uso efetivo e adequado das tecnologias da educação;
@@ -165,24 +169,14 @@ registre *Não* caso contrário.
 [cols="8,2^", options="header",valign="middle"]
 |====
 ^| Competência |  Pertence à proposta do Estágio 2
-| Entender os aspectos econômicos e financeiros das organizações e propor soluções de hardware e software para otimizar seus processos; | _Não_
-| Empregar metodologias que visem garantir critérios de qualidade ao longo de todas as etapas de desenvolvimento de uma solução computacional; |
-| Desenvolver sistemas integrados e sistemas embarcados, incluindo o desenvolvimento de software para esses sistemas; |
-| Especificar e avaliar softwares e equipamentos para aplicações educacionais e de Educação à Distancia; |
-| Projetar e desenvolver softwares e hardware educacionais e de educação à distância em equipes interdisciplinares; |
-| Atuar junto ao corpo docente das Escolas da Educação Básica  e suas modalidades no uso efetivo e adequado das tecnologias da educação; |
-| Produzir material didático; |
-| Administrar laboratórios de informática para fins educacionais; |
-| Atuar como agentes integradores promovendo a acessibilidade digital; |
-| Atuar como docente com a visão de avaliação crítica e reflexiva; |
-| Propor, coordenar e avaliar, projetos de ensino-aprendizagem assistidos por computador que propiciem a pesquisa. |
+//Removi o texto anterior já que alterei um pouco.
 |====
 
 ////
 
 
 TIP: Na próxima página você irá encontrar as respostas
-comentadas, mas nós recomendamos que você tente realizar as atividades
+comentadas, mas nós recomendamos que você tente dar suas próprias respostas a esta atividade
 antes de consultar as respostas.
 
 <<<
@@ -201,15 +195,19 @@ antes de consultar as respostas.
 | Não
 | Durante o estágio na escola você estará realizando uma atuação mais focada no ensino e não no desenvolvimento de software, onde devem ser considerados os aspectos de qualidade e o uso de metodologias que garantam tal qualidade.
 
-| Desenvolver sistemas integrados e sistemas embarcados, incluindo o desenvolvimento de software para esses sistemas;
+| Desenvolver sistemas integrados e sistemas embarcados em geral;
 | Não
 | Durante o seu estágio na escola você não estará desenvolvendo nenhum hardware ou software embarcado.
 
-| Especificar e avaliar softwares e equipamentos para aplicações educacionais e de Educação à Distancia;
-| Não
-| Para assegurar a possível atuação do licenciado na escola no futuro, o Estágio 2 deverá ser realizado presencialmente na escola. As atividades de educação à distância poderão ser realizadas em outras disciplinas. O Estágio 2 se dedica exclusivamente a atividades presenciais nas escolas.
+| Avaliar softwares e equipamentos para aplicações educacionais;
+| Sim
+| Durante sua atuação na escola, será interessante avaliar softwares e equipamentos que podem ser aplicados na educação básica e na escola em que você irá atuar.
 
-| Projetar e desenvolver softwares e hardware educacionais e de educação à distância em equipes interdisciplinares;
+| Especificar e avaliar softwares e equipamentos para aplicação na Educação a Distancia;
+| Não
+| Para assegurar a possível atuação do licenciado na escola no futuro, o Estágio 2 tem como foco a educação presencial. As atividades relacionadas à educação a distância poderão ser realizadas em outras disciplinas de estágio.
+
+| Projetar e desenvolver software e hardware educacionais e de educação a distância em equipes interdisciplinares;
 | Não
 | A proposta do Estágio 2 é a utilização de softwares+hardware na escola com fins educacionais. O desenvolvimento de sistemas não faz parte da proposta do estágio. Talvez você desenvolva algum pequeno software com fins educativos (presenciais), mas apenas o seu desenvolvimento sem a utilização na escola não servirá como proposta para o seu estágio.
 
@@ -267,7 +265,7 @@ Embora o licenciado em computação seja capacitado para codificar
 softwares, durante o Estágio 2 ele estará desenvolvendo as suas
 competências relacionadas ao ensino na escola.
 
-As competências para o desenvolvimento de software, principalmente software comercial, não fazem parte da proposta do Estágio 2.
+As competências para o desenvolvimento de software, principalmente software comercial, não fazem parte da proposta do Estágio 2. Da mesma forma, atividades relacionadas à educação a distância também não são o foco desta disciplina.
 
 O Estágio 2 deverá ser realizado, obrigatoriamente, em uma escola. Esta escola não precisa ser a mesma do Estágio 1 (embora esta seja uma recomendação).
 

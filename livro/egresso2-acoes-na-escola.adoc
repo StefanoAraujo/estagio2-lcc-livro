@@ -10,7 +10,7 @@ Antes de observar algumas atividades, tente listar, no espaço seguinte,
 exemplos de atividades que você acha que um estagiário de LC pode
 desenvolver na escola -- considerando os dois perfis de estágio
 discutidos anteriormente.
-
+////
 ++++
 <simpara>
 <ulink url="{atividade}">
@@ -20,6 +20,7 @@ discutidos anteriormente.
 </imageobject>
 </inlinemediaobject></ulink></simpara>
 ++++
+////
 
 [options="header"]
 |====
@@ -93,6 +94,8 @@ IMPORTANT: Embora existam dois perfis principais para o estágio, *suas atividad
 podem contemplar os dois perfis*, tornando-lhe um profissional capaz de
 atuar nessas duas áreas.
 
+A seguir serão apresentadas algumas atividades que podem ser desenvolvidas nas escolas por estagiários de Licenciatura em Computação.
+
 ==== Planejamento e execução de um projeto de ensino-aprendizagem multidisciplinar que explore recursos de informática
 
 Prega-se muito o uso da pedagogia de projetos de forma integrada com a
@@ -126,7 +129,7 @@ material do MEC:
 
 * http://portaldoprofessor.mec.gov.br/storage/materiais/0000011622.pdf
 
-image::{img}/image2.png[scaledwidth="40%", align="center"]
+image::images/egresso/image2.png[scaledwidth="40%", align="center"]
 
 ==== Planejamento e execução de um projeto pedagógico que explore recursos de TIC em uma única disciplina
 
@@ -146,7 +149,7 @@ diferentes disciplinas no portal do professor:
 
 * http://portaldoprofessor.mec.gov.br/buscarAulas.html
 
-image::{img}/image3.png[scaledwidth="40%", align="center"]
+image::images/egresso/image3.png[scaledwidth="40%", align="center"]
 
 ==== Organização e administração de laboratórios de informática para fins educacionais
 
@@ -187,7 +190,7 @@ seja na aula em si, ou em aulas prévias para possibilitar a inclusão
 digital de alunos sem contato prévio com computadores ou com o uso de
 certos softwares.
 
-image::{img}/image4.png[scaledwidth="35%", align="center"]
+image::images/egresso/image4.png[scaledwidth="35%", align="center"]
 
 ==== Desenvolvimento de materiais instrucionais utilizando recursos tecnológicos disponíveis junto ao corpo docente da escola
 
@@ -216,7 +219,7 @@ Existe ainda o Visual Class (http://www.classinformatica.com.br/ ) ,
 que permite a criação de aulas e apresentações com recursos
 multimídia.
 
-image::{img}/recursos-tecnologicos.svg[scaledwidth="70%", align="center"]
+image::images/egresso/recursos-tecnologicos.svg[scaledwidth="70%", align="center"]
 
 ==== Levantamento, catalogação e avaliação de objetos de aprendizagem que podem auxiliar os professores da escola
 
@@ -235,7 +238,7 @@ Após cursar a disciplina do curso sobre objetos de aprendizagem, você
 poderá no futuro fazer uma avaliação mais detalhada e formal de alguns
 desses OAs.
 
-image::{img}/image9.png[scaledwidth="40%", align="center"]
+image::images/egresso/image9.png[scaledwidth="40%", align="center"]
 
 ==== Ensino de informática básica
 
@@ -249,7 +252,7 @@ dominam o uso desses dispositivos, mas que não compreendem bem o uso
 de um sistema operacional (como o Windows 8, ou o Linux Educacional) e
 seus aplicativos básicos.
 
-image::{img}/image10.png[scaledwidth="35%", align="center"]
+image::images/egresso/image10.png[scaledwidth="35%", align="center"]
 
 ==== Ensino de lógica básica
 
@@ -269,7 +272,7 @@ cobrança de lógica em concursos públicos, inclusive de nível
 fundamental e médio, sendo portanto interessante abordar ainda na
 escola algumas técnicas
 
-image::{img}/image11.png[scaledwidth="30%", align="center"]
+image::images/egresso/image11.png[scaledwidth="30%", align="center"]
 
 ==== Ensino introdutório de programação
 
@@ -285,7 +288,7 @@ ferramenta GameMaker (https://www.yoyogames.com/studio), que é bem
 intuitiva e pode ser facilmente explorada por alunos do ensino
 fundamental II (6o. ao 9o. ano) ou por alunos do ensino médio.
 
-image::{img}/introducao-programacao.svg[scaledwidth="60%", align="center"]
+image::images/egresso/introducao-programacao.svg[scaledwidth="60%", align="center"]
 
 ++++
 <remark>Esse é um típico exemplo em que eu criaria um seção
@@ -305,7 +308,7 @@ robótica na escola utilizando esses kits, e fazendo com que o
 interesse dos alunos pela computação possa aumentar, uma vez que eles
 poderão ver seus programas traduzidos em movimentos de robôs.
 
-image::{img}/image14.png[scaledwidth="30%", align="center"]
+image::images/egresso/image14.png[scaledwidth="30%", align="center"]
 
 ==== Ensino do pensamento computacional e algorítmico
 
@@ -321,10 +324,10 @@ para resolver um problema e estratégias para estruturar esses passos.
 Faltou informar um exemplo prático de como seria isso para eles.
 ////
 
-image::{img}/pensamento_computacional.svg[scaledwidth="60%", align="center"]
+image::images/egresso/pensamento_computacional.svg[scaledwidth="60%", align="center"]
 
 ==== Atividade: Entendendo seu papel como estagiário exemplificando possíveis atividades na escola
-
+////
 ++++
 <simpara>
 <ulink url="{atividade}">
@@ -334,7 +337,7 @@ image::{img}/pensamento_computacional.svg[scaledwidth="60%", align="center"]
 </imageobject>
 </inlinemediaobject></ulink></simpara>
 ++++
-
+////
 
 Como estagiário, você precisa elaborar um plano de atividades.
 Considerando o perfil de egresso do curso de Licenciatura em
@@ -445,3 +448,14 @@ atividades esperadas para um licenciado em computação?
 
 ====
 ////
+
+[TIP]
+.Feedback
+====
+Tente observar se as atividades que você definiu estão bem concretas,
+deixando claro o que você irá realizar no ambiente escolar.
+Veja também se são atividades ligadas ao que se espera de um licenciado
+em Computação atuando no ensino básico e se são viáveis. Para avaliar
+a viabilidade das atividades propostas, converse com seu supervisor na escola. 
+
+====
