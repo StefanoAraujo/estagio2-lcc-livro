@@ -324,6 +324,15 @@ explorar durante o estágio aulas de introdução ao pensamento
 computacional e algorítmico, dando aos estudantes a noção de passos
 para resolver um problema e estratégias para estruturar esses passos.
 
+Caso a escola não tenha computadores, podem também ser exploradas atividades
+de computação desplugada, como as que são propostas nos seguintes sites:
+
+* http://csunplugged.org/
+* https://sites.google.com/a/dce.ufpb.br/computacao-desplugada/
+
+A ideia do ensino do pensamento computacional é tentar mostrar que para
+resolver problemas devemos estruturar os passos para se chegar à sua solução.
+
 ////
 Faltou informar um exemplo prático de como seria isso para eles.
 ////
