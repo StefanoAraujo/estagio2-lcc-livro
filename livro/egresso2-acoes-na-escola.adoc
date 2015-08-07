@@ -79,7 +79,7 @@ executar essa atividade é que conseguirá ganhar essa maturidade.
 
 O propósito deste exercício é lhe incentivar a pensar em atividades
 que você poderia desempenhar em seu estágio, sem se restringir às
-atividades que serão apresentadas nesta seção.
+sugestões de atividades que serão apresentadas nesta seção.
 
 ====
 
@@ -106,7 +106,7 @@ poderia ser o planejamento de um projeto envolvendo diversas
 disciplinas e onde diferentes recursos de informática podem ser
 explorados para atrair os alunos e envolvê-los no projeto.
 
-Exemplos de recursos que podem ser explorados são:: Grupos e fan pages
+Alguns exemplos de recursos que podem ser explorados são:: Grupos e fan pages
 em redes sociais como Facebook, criação de blogs, criação de sites,
 uso de câmeras digitais e celulares para registrar fatos do cotidiano
 e os passos do projeto, uso de softwares educacionais em aulas
@@ -185,10 +185,10 @@ um trabalho conjunto com o corpo docente da escola.
 Além de selecionar os softwares, o que deve ser uma atividade
 constante e que demanda tanto a formação técnica quanto a pedagógica
 do licenciado em computação, o egresso deste curso deve ser capaz de
-apoiar outros professores durante aulas que utilizem este software,
+apoiar outros professores durante aulas que utilizem estes softwares,
 seja na aula em si, ou em aulas prévias para possibilitar a inclusão
 digital de alunos sem contato prévio com computadores ou com o uso de
-certos softwares.
+certos programas.
 
 image::images/egresso/image4.png[scaledwidth="35%", align="center"]
 
@@ -206,12 +206,12 @@ uma análise comparativa do seu recurso com algum existente. Para o
 desenvolvimento dos materiais instrucionais, você pode utilizar
 softwares para fazer apresentações (como o Power Point, do pacote
 Office da Microsoft ou o Impress do Libre Office). Outra opção é
-produzir vídeos utilizando o celular, sua web cam, algum software de
-filmagem de tela (screen capture), ou mesmo o próprio YouTube por meio
+produzir vídeos utilizando o celular, sua _web cam_, algum software de
+filmagem de tela (_screen capture_), ou mesmo o próprio YouTube por meio
 dos seus serviços de criação de vídeo
 (https://www.youtube.com/upload). O licenciado em computacão pode
 ainda apoiar na criação de exercícios que tenham finalidade
-instrucional e sejam dinâmicos, utilizando ferramentas como sofwares
+instrucional e que sejam dinâmicos, utilizando ferramentas como sofwares
 de autoria para isso. Um exemplo desse tipo de software é o Hot
 Potatoes (http://hotpot.uvic.ca/), que permite a criação de diferentes
 tipos de exercícios, como cruzadinhas e questões de múltipla escolha.
@@ -267,8 +267,8 @@ lógico e fazer uma introdução a lógica, trabalhando, por exemplo,
 conectivos lógicos como conjunções, disjunções, negação, etc e
 abordando como exercícios questões de concurso.
 
-TIP: Além disso, percebe-se que têm se tornado cada vez mais comum a
-cobrança de lógica em concursos públicos, inclusive de nível
+TIP: Percebe-se que tem se tornado cada vez mais comum a
+cobrança de lógica em concursos públicos, inclusive nos de nível
 fundamental e médio, sendo portanto interessante abordar ainda na
 escola algumas técnicas
 
@@ -280,7 +280,8 @@ Uma forma de desenvolver o raciocínio lógico dos estudantes do ensino
 básico é ensinar-lhes noções de programação. Isso pode ser feito por
 meio de uma linguagem de programação propriamente dita (como Python ou
 C) ou ainda por meio de ferramentas como o Scratch
-(https://scratch.mit.edu/) que permitem a criação de jogos, histórias
+(https://scratch.mit.edu/) ou iniciativas como a do Code.org (http://code.org)
+que permitem a criação de jogos, histórias
 e animações que podem ser compartilhadas, o que poderia motivar
 bastante os alunos. Uma outra forma de também introduzir um pouco de
 programação e de forma visual aos estudantes é por meio do uso da
@@ -290,11 +291,14 @@ fundamental II (6o. ao 9o. ano) ou por alunos do ensino médio.
 
 image::images/egresso/introducao-programacao.svg[scaledwidth="60%", align="center"]
 
+////
+Comentário Eduardo:
 ++++
 <remark>Esse é um típico exemplo em que eu criaria um seção
 no wiki para o aluno aprofundar os conhecimentos com
 exemplos de utilização do scratch e GameMaker.</remark>
 ++++
+////
 
 ==== Ensino de robótica
 
@@ -326,7 +330,7 @@ Faltou informar um exemplo prático de como seria isso para eles.
 
 image::images/egresso/pensamento_computacional.svg[scaledwidth="60%", align="center"]
 
-==== Atividade: Entendendo seu papel como estagiário exemplificando possíveis atividades na escola
+=== Atividade: Entendendo seu papel como estagiário exemplificando possíveis atividades na escola
 ////
 ++++
 <simpara>
@@ -456,6 +460,6 @@ Tente observar se as atividades que você definiu estão bem concretas,
 deixando claro o que você irá realizar no ambiente escolar.
 Veja também se são atividades ligadas ao que se espera de um licenciado
 em Computação atuando no ensino básico e se são viáveis. Para avaliar
-a viabilidade das atividades propostas, converse com seu supervisor na escola. 
+a viabilidade das atividades propostas, converse com seu supervisor na escola.
 
 ====
