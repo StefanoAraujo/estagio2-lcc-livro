@@ -38,7 +38,7 @@ Esta caixa é utilizada para chamar atenção sobre algo importante.
 
 [CAUTION]
 ========
-Esta caixa é utilizada para alertar sobre algo que exige cautela.
+Esta caixa é utilizada para alertar sobre algo que merece um pouco de cautela.
 ========
 //TODO: Ver porque a imagem está sendo a mesma.
 
