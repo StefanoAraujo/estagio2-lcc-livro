@@ -1,0 +1,16 @@
+==  Preenchendo seu Plano de Atividades de Estágio e Termo de Compromisso de Estágio
+
+:img: images/egresso
+
+.Objetivos do capítulo
+____
+
+Ao final deste capítulo você será capaz de:
+
+1. *Preparar* o seu Plano de Atividades de Estágio (PAE) e seu Termo
+de Compromisso de Estágio (TCE), preenchendo seus dados e *planejando*
+em linhas gerais as atividades que realizará na escola.
+
+____
+
+include::pae_tce.adoc[]
