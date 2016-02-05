@@ -1,0 +1,20 @@
+==  Relatando sua experiência como estagiário
+
+.Objetivos do capítulo
+____
+
+Ao final deste capítulo você será capaz de:
+
+1. *Avaliar* sua experiência como estagiário  *checando* se conseguiu
+alcançar os objetivos previstos para o seu estágio e se conseguiu realizar
+o que foi planejado.
+2. *Criar* um documento que apresente seu planejamento, a fundamentação teórica
+do trabalho, um relato das ações realizadas e dos resultados obtidos, além
+de sua avaliação crítica, *produzindo* assim a versão final do seu 
+relatório de estágio.
+
+____
+
+////
+include::projeto_pedagogico_acao.adoc[]
+////

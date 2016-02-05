@@ -1,0 +1,14 @@
+==  Detalhando o Planejamento de seu Estágio
+
+.Objetivos do capítulo
+____
+
+Ao final deste capítulo você será capaz de:
+
+1. *Criar* um planejamento detalhado de uma possível atuação
+sua como estagiário em sala de aula *produzindo* um plano
+de aula ou sequência didática.
+
+____
+
+include::detalhando_planejamento.adoc[]

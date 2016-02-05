@@ -1,0 +1,16 @@
+==  Executando um Projeto Pedagógico para a Escola
+
+.Objetivos do capítulo
+____
+
+Ao final deste capítulo você será capaz de:
+////
+1. *Criar* um projeto pedagógico com ações que podem ser realizadas
+por licenciados em computação *produzindo* um documento que resuma esse
+planejamento e apresente planos de aula ou sequências didáticas.
+////
+____
+
+////
+include::projeto_pedagogico_acao.adoc[]
+////
