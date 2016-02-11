@@ -15,6 +15,13 @@ Número do Convênio: 126/2011_
 
 [WARNING]
 ========
+Este convênio está em processo de renovação. Portanto, observe no site
+da UFPB se já há um convênio mais novo com o Governo do Estado ao preencher
+sua documentação.
+========
+
+[WARNING]
+========
 Se o estágio for em uma escola municipal, tente identificar
 se nas instituições conveniadas com a UFPB está a prefeitura
 do Município em que está a escola.
@@ -51,7 +58,7 @@ de experiência e ser dispensado da disciplina de Estágio 2.
 Para isso, preencha o formulário de aproveitamento de experiência e
 envie no seu pedido de aproveitamento um relato de sua
 experiência detalhando as atividades que já realizou, bem como
-a documentação comprobatória.
+a documentação comprobatória do seu vínculo com a escola.
 
 O formulário de aproveitamento de experiência pode ser baixado
 através do seguinte endereço:
@@ -67,28 +74,28 @@ comentados nas seções a seguir.
 O formulário do Plano de Atividades de Estágio da UFPB pode ser
 baixado através do seguinte endereço:
 
-* http://www.prg.ufpb.br/?q=download/file/fid/327
+* http://www.prg.ufpb.br/?q=download/file/fid/1052
 
-image::images/pae_tce/pae_tce1.png[scaledwidth="80%", align="center"]
+image::images/pae_tce/pae_tce1.png[scaledwidth="95%", align="center"]
 
 Na primeira parte do PAE, você deverá
-preencher seu nome (campo 1.1), sua matrícula na UFPB (1.2), seu curso (1.3),
-Licenciatura em Computação, o período em que você está no curso (1.4),
-seu CPF (1.5), seu endereço residencial (1.6), sua data de nascimento no formato
-dd/mm/aaaa (1.7) e seu e-mail (1.8).
+preencher seu nome (campo 1.1), seu curso (1.2), ou seja, Licenciatura em Computação,
+sua matrícula na UFPB (1.2.1), o período em que você está no curso (1.2.2),
+seu endereço residencial (1.3), incluindo CEP (1.3.1), seu telefone residencial (1.4),
+celular (1.5) e seu e-mail (1.6).
 
 
 
 A seguir você irá preencher os dados referentes à instituição
 em que irá estagiar.
 
-image::images/pae_tce/pae_tce2.png[scaledwidth="80%", align="center"]
+image::images/pae_tce/pae_tce2.png[scaledwidth="95%", align="center"]
 
 
 [IMPORTANT]
 ========
 Se a escola for estadual ou municipal, os dados
-Razão Social (2.1), CNPJ (2.2) e Endereço (2.4) serão os
+Razão Social (2.1), CNPJ (2.2), Endereço (2.3) e CEP (2.4) serão os
 da Secretaria de Educação do Estado ou os da prefeitura do
 município, respectivamente.
 
@@ -102,65 +109,75 @@ Educação da Paraíba_
 
 *2.2 CNPJ:* _08.778.250/0001-69_
 
-*Endereço:* _Centro Administrativo Integrado, Bloco I, 6º Andar-
+*2.3 Endereço:* _Centro Administrativo Integrado, Bloco I, 6º Andar-
 Jaguaribe, João Pessoa._
+
+*2.4 CEP:*_58.015-020_
 ========
 
-Nesta parte do formulário, você deverá também preencher os seguintes
-campos:
+O endereço e CEP pode também ser obtido consultando o CNPJ no site da Receita Federal:
 
-* *2.3.	Telefone* – Telefone da escola em que está realizando
+* http://www.receita.fazenda.gov.br/pessoajuridica/cnpj/cnpjreva/cnpjreva_solicitacao.asp
+
+Nesta parte do formulário, além dos dados anteriormente descritos, você deverá
+também preencher os seguintes campos:
+
+* *2.5.	Telefone* – Telefone da escola em que está realizando
 o estágio, e caso não tenha, colocar o telefone da secretaria
 municipal ou estadual da educação.
 
-* *2.5.	Setor da empresa onde será desenvolvido o estágio* – Nome da escola
+* *2.6.	Setor da empresa onde será desenvolvido o estágio* – Nome da escola
 onde realizará o estágio
 
-* *2.6.	Nome legível do Supervisor de estágio na empresa/instituição* – Esse
+* *2.7.	Nome legível do Supervisor de estágio na empresa/instituição* – Esse
 supervisor poderá ser o diretor, supervisor, coordenador pedagógico da escola,
 ou um professor que você irá acompanhar no uso das TIC na educação, desde
 que tenha curso superior concluído na área de Educação ou computação.
 
-* *2.6.1.	Formação profissional do supervisor* –Área específica de formação
-do supervisor. Ex: Graduação em Pedagogia, Licenciatura em Matemática, etc.
+* *2.7.1.	Formação profissional do supervisor* –Área específica de formação
+do supervisor e que seja relacionada ao curso de Licenciatura em Computação.
+Ex: Graduação em Pedagogia, Licenciatura em Matemática, Ciência da Computação,
+etc.
 
-* *2.6.2.	Função* – A função exercida na escola pelo supervisor do seu estágio.
+* *2.7.2.	E-mail* – E-mail do supervisor do seu estágio.
 
 A seguir você preencherá alguns dados sobre a disciplina e sobre seu estágio.
 
-image::images/pae_tce/pae_tce3.png[scaledwidth="80%", align="center"]
+image::images/pae_tce/pae_tce3.png[scaledwidth="95%", align="center"]
 
 Algumas dessas informações estão apresentadas a seguir:
 
-* *3.1.	Código da disciplina* – _5102024_
+* *3.1.	Nome da disciplina* – _Estágio Curricular Supervisionado II (Estágio Curric. Sup. II)_
 
-* *3.1.1.	Carga horária* – _75 horas_
+* *3.1.1.	Código da disciplina* – _5102024_
 
-* *3.1.2.	Créditos* – _05_
+* *3.1.2.	Carga horária* – _75 horas_
 
-* *3.1.3.	Pré- requisitos* – _Didática/ Estágio 1_
+* *3.1.3.	Créditos* – _05_
 
-* *3.2.	Início* – _10/08/2015_
+* *3.2.	Início do Estágio* – _01/02/2016_
 
-* *3.2.1.	Término* – _09/12/2015_
+* *3.3.	Término do Estágio* – _15/06/2016_
 
-* *3.3.	Horário* – _Variável._ Obs: Se quiser definir algum
+* *3.4.	Horário* – __ _hs às _ _hs e/ou Variável._ Obs: Se quiser definir algum
 horário fixo, preste atenção para que sejam ao menos
 5 horas semanais e no máximo 30 horas semanais
 
-* *3.3.1.	Horas semanais* – _5h_
+* *3.5.	Carga horária semanal* – _5h_
 
-* *3.4.	Nome Legível do professor orientador* – _Ayla Débora Dantas de Souza Rebouças_
+* *3.6.	Professor orientador do estágio* – _Ayla Débora Dantas de Souza Rebouças_
 
-* *3.5.	Matricula SIAPE* – 1694584-7
+* *5.6.3.	Matricula SIAPE* – 1694584-7
 
-* *3.5.1.	Instituição* – UFPB
+* *2.6.1.	Formação Profissional* – _Bacharelado, Mestrado e Doutorado em Ciência da Computação_
+
+* *2.6.2. E-mail* - _ayla@dce.ufpb.br_
 
 Na parte 4 do formulário você deverá colocar a lista de atividades que irá
 desenvolver no seu estágio e que devem ser compatíveis com
 o perfil de egresso do curso de Licenciatura em Computação.
 
-image::images/pae_tce/pae_tce4.png[scaledwidth="80%", align="center"]
+image::images/pae_tce/pae_tce4.png[scaledwidth="95%", align="center"]
 
 [TIP]
 ====
@@ -185,69 +202,75 @@ estão a seguir:
 * *4.5.*	Atividade de intervenção em sala de aula;
 * *4.6.*	Produção de relatório baseado nas atividades desenvolvidas no decorrer do estágio.
 
-A próxima parte do relatório se refere ao relatório, que é *Semestral*. Depois dessa
-parte está o local das assinaturas, onde deverá estar a sua
-assinatura no campo *Estagiário* e a assinatura do seu
-*Supervisor* na escola (*Unidade Concedente*).  Não precisa colocar a data, após
+Depois dessa parte está o local das assinaturas, onde deverá estar a sua
+assinatura no campo *Estagiário* e a assinatura de um representante da
+*Unidade Concedente* (escola), bem como o seu carimbo.  Não precisa colocar a data, após
 “João Pessoa”, pois será preenchida pelo setor de estágios da
 UFPB ao receber a documentação.
 
-image::images/pae_tce/pae_tce6.png[scaledwidth="80%", align="center"]
+image::images/pae_tce/pae_tce6.png[scaledwidth="95%", align="center"]
 
 === Preenchendo seu TCE (Termo de Compromisso de Estágio)
+
+O formulário do Termo de Compromisso de Estágio da UFPB pode ser
+baixado através do seguinte endereço:
+
+* http://www.prg.ufpb.br/?q=download/file/fid/1051
 
 Para preencher o TCE você utilizará vários dos dados que já
 preencheu no PAE. No início, você deverá preencher a data de
 início do estágio, que deve ser a data de início do período:
 
-* "_Aos *10* dias do mês de *agosto* de 20 *15*, na cidade..._"
+* "_Ao *1o.* dia do mês de *fevereiro* de 20 *16*, na cidade..._"
 
-image::images/pae_tce/pae_tce7.png[scaledwidth="80%", align="center"]
+image::images/pae_tce/pae_tce7.png[scaledwidth="95%", align="center"]
 
 Depois, você preencherá os dados referentes à escola:
 
-* *1.1.	Razão Social* – Dados da secretaria do município (se for em escola municipal) ou da Secretaria de Educação do Estado (se escola Estadual) ou da escola conveniada (Veja relação dos convênios no site da UFPB: http://www.prg.ufpb.br/?q=view-convenios-estagio).
+* *2.1.	Razão Social* – Dados da secretaria do município (se for em escola municipal) ou da Secretaria de Educação do Estado (se escola Estadual) ou da escola conveniada (Veja relação dos convênios no site da UFPB: http://www.prg.ufpb.br/?q=view-convenios-estagio).
 
-* *1.2.	CNPJ* – CNPJ da secretaria do município ou do estado  ou da escola conveniada.
+* *2.2.	CNPJ* – CNPJ da secretaria do município ou do estado  ou da escola conveniada.
 
-* *1.3.	Telefone* – Telefone da escola ou o da Secretaria de Educação, caso a
+* *2.3.	Endereço* – Dados da secretaria do município ou do estado ou da escola, caso seja diretamente conveniada.
+
+* *2.4.	CEP* – CEP da secretaria do município ou do estado ou da escola, caso seja diretamente conveniada.
+
+* *2.5.	Telefone* – Telefone da escola ou o da Secretaria de Educação, caso a
 escola não tenha um número de telefone para contato.
 
-* *1.4.	Endereço* – Dados da secretaria do município ou do estado ou da escola, caso seja diretamente conveniada.
+* *2.6.	Setor da empresa onde será realizado o estágio* – Nome da escola onde realizará o estágio
 
-* *1.5.	Setor da empresa onde será desenvolvido o estágio* – Nome da escola onde realizará o estágio
+* *2.7.	Supervisor do estágio* – Nome do seu supervisor.
 
-* *1.6.	Nome legível do Supervisor de estágio na empresa/instituição* – Nome do seu supervisor.
-
-* *1.6.1.	Formação profissional do supervisor* – Área específica de formação, considerando que deve ter curso
+* *2.7.1.	Formação profissional do supervisor* – Área específica de formação, considerando que deve ter curso
 superior em educação ou computação.
 
-* *1.6.2.	Função* – A função exercida na escola pelo supervisor do seu estágio.
+* *2.7.2.	E-mail* – E-mail do supervisor do seu estágio.
 
-image::images/pae_tce/pae_tce8.png[scaledwidth="80%", align="center"]
+image::images/pae_tce/pae_tce8.png[scaledwidth="95%", align="center"]
 
-A seguir, na Seção 2 do formulário, você preencherá os seus dados: seu
-nome (2.1), sua matrícula (2.2), seu curso, no caso Licenciatura em Computação (2.3),
-o período do curso em que você está (2.4), seu CPF (2.5), seu
-endereço residencial (2.6), sua data de nascimento (2.7) e seu
-e-mail (2.8).
+A seguir, na Seção 3 do formulário, você preencherá os seus dados: seu
+nome (3.1), seu curso, no caso Licenciatura em Computação (3.2), sua matrícula (3.3),
+o período do curso em que você está (3.4), seu
+endereço residencial (3.5), CEP (3.6), telefone residencial (3.7), celular (3.8),
+e seu e-mail (3.9).
 
-image::images/pae_tce/pae_tce9.png[scaledwidth="80%", align="center"]
+image::images/pae_tce/pae_tce9.png[scaledwidth="95%", align="center"]
 
-Na Seção 3 do TCE você deverá preencher os dados referentes ao convênio
+Na Seção 4 do TCE você deverá preencher os dados referentes ao convênio
 da sua escola com a UFPB:
 
-* *3.1.	Número* – Número do convênio da secretaria do município ou do estado
+* *4.1.	Número* – Número do convênio da secretaria do município ou do estado
 ou da escola (Veja relação dos convênios e seus dados no site da
 UFPB: http://www.prg.ufpb.br/?q=view-convenios-estagio).
 
-* *3.2.	Data* – Data do convenio da secretaria do município, do estado, ou da escola.
+* *4.2.	Início da vigência* – Data de início da vigência do convenio da secretaria do município, do estado, ou da escola.
 
-* *3.3.	Vigência* – Data da vigência do convênio com a secretaria ou com a escola,
+* *4.3.	Término da vigência* – Data da vigência do convênio com a secretaria ou com a escola,
 caso haja convênio diretamente entre a escola e a UFPB.
 
 
-image::images/pae_tce/pae_tce10.png[scaledwidth="80%", align="center"]
+image::images/pae_tce/pae_tce10.png[scaledwidth="95%", align="center"]
 
 [TIP]
 ========
@@ -256,25 +279,27 @@ _126/2011_. A Data do convênio (3.2) será _21/11/2011_. A Vigência (3.3)
 deverá ser preenchida com a data _21/11/2015_.
 ========
 
-A Seção 4 contém as informações relativas ao estágio, como horário e dados
+A Seção 5 contém as informações relativas ao estágio, como horário e dados
 da disciplina e deverá ser preenchida com os mesmos dados utilizados no
 preenchimento da Seção 3 do PAE.
 
-image::images/pae_tce/pae_tce11.png[scaledwidth="80%", align="center"]
+image::images/pae_tce/pae_tce11.png[scaledwidth="95%", align="center"]
 
 O campo *e)*, referente à bolsa-auxílio e vale transporte não deve ser preenchido.
 
-image::images/pae_tce/pae_tce12.png[scaledwidth="80%", align="center"]
+image::images/pae_tce/pae_tce12.png[scaledwidth="95%", align="center"]
 
 A última parte do TCE se refere às assinaturas. Você irá assinar no campo
-*Estagiário* e deverá obter a assinatura do(a) diretor(a) da
-escola em que irá atuar, que deverá ficar no campo *Unidade Concedente*. As
+*Estagiário* e deverá obter a assinatura e carimbo do(a) diretor(a) da
+escola em que irá atuar ou de seu(sua) supervisor(a), que deverá ficar no campo
+*Concedente (Local do estágio) – Supervisor do Estágio*. As
 demais assinaturas serão recolhidas pela equipe da disciplina
 de Estágio Curricular Supervisionado II quando os documentos
-chegarem até a coordenação do curso.
+chegarem até a coordenação do curso. A data será preenchida pelo setor de
+estágios da UFPB.
 
 
-image::images/pae_tce/pae_tce13.png[scaledwidth="80%", align="center"]
+image::images/pae_tce/pae_tce13.png[scaledwidth="95%", align="center"]
 
 === Outras informações importantes sobre o preenchimento
 
@@ -295,3 +320,6 @@ e TCE (Termo de Compromisso) referentes ao estágio obrigatório
 e que estão disponibilizados na sala de aula da disciplina
 no  Moodle ou no site da UFPB:
 http://www.prg.ufpb.br/?q=view-form-estagio
+
+Os documentos devem ser digitalizados e enviados como atividade e devem ser
+também entregues nos polos para serem encaminhados à coordenação do curso.

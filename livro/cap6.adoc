@@ -4,11 +4,10 @@
 ____
 
 Ao final deste capítulo você será capaz de:
-////
-1. *Criar* um projeto pedagógico com ações que podem ser realizadas
-por licenciados em computação *produzindo* um documento que resuma esse
-planejamento e apresente planos de aula ou sequências didáticas.
-////
+
+1. *Executar* um projeto pedagógico planejado previamente *registrando*
+as ações realizadas e *fazendo uma análise crítica* sobre suas ações.
+
 ____
 
 ////
