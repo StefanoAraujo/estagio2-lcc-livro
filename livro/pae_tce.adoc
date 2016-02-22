@@ -4,21 +4,15 @@ O local onde você irá estagiar deverá ser uma escola de Ensino Básico conven
 com a UFPB. Você pode ver a lista de instituições conveniadas com a UFPB
 no arquivo disponibilizado no seguinte endereço:
 
-* http://www.prg.ufpb.br/?q=view-convenios-estagio
+* http://www.proplan.ufpb.br/proplan/contents/documentos/19-02-2016-convenios-vigentes.pdf
 
 TIP: Observe que se você quer estagiar em uma escola estadual,
 isto será possível,já que na lista de convênios está a
 Secretaria de Educação do Estado:
 _GOVERNO DO ESTADO DA PARAÍBA /SEE - Secretaria de Estado
 da Educação da Paraíba.
-Número do Convênio: 126/2011_
+Número do Convênio: 017/2016_
 
-[WARNING]
-========
-Este convênio está em processo de renovação. Portanto, observe no site
-da UFPB se já há um convênio mais novo com o Governo do Estado ao preencher
-sua documentação.
-========
 
 [WARNING]
 ========
@@ -112,7 +106,7 @@ Educação da Paraíba_
 *2.3 Endereço:* _Centro Administrativo Integrado, Bloco I, 6º Andar-
 Jaguaribe, João Pessoa._
 
-*2.4 CEP:*_58.015-020_
+*2.4 CEP:* _58.015-020_
 ========
 
 O endereço e CEP pode também ser obtido consultando o CNPJ no site da Receita Federal:
@@ -274,9 +268,9 @@ image::images/pae_tce/pae_tce10.png[scaledwidth="95%", align="center"]
 
 [TIP]
 ========
-Se sua escola é estadual, você deverá utilizar como número do convênio (3.1) o seguinte:
-_126/2011_. A Data do convênio (3.2) será _21/11/2011_. A Vigência (3.3)
-deverá ser preenchida com a data _21/11/2015_.
+Se sua escola é estadual, você deverá utilizar como número do convênio (4.1) o seguinte:
+_017/2016_. O Início da Vigência (4.2) será _12/02/2016_. O Término da Vigência (4.3)
+deverá ser preenchida com a data _12/02/2021_.
 ========
 
 A Seção 5 contém as informações relativas ao estágio, como horário e dados
